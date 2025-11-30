@@ -1,1 +1,5 @@
 shiny==1.5.0
+faicons==0.2.2
+seaborn==0.13.2
+pandas==2.3.3
+jupyter==1.1.1
