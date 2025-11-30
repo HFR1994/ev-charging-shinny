@@ -13,3 +13,10 @@ cd .. && rm -rf fonts
 zsh -c 'git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k'
 cp .devcontainer/extras/.zshrc ~
 cp .devcontainer/extras/.p10k.zsh ~
+
+
+#######
+# Install Dep
+#######
+pip3 install --upgrade pip wheel 
+pip3 install -r requirements.txt
