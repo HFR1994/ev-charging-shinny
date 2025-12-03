@@ -1,99 +1,61 @@
-import seaborn as sns
-from faicons import icon_svg
+import os
+from pathlib import Path
 
 # Import data from shared.py
-from shiny import App, ui, render, reactive
-import pandas as pd
+from shiny import ui, reactive, App
+from src.shared import load_data_into_pandas, assets_dir
 
-from src.shared import get_data_from_api, convert_data_into_pandas
-
-ui.page_opts(title="Penguins dashboard", fillable=True)
-
-
-with ui.sidebar(title="Filter controls"):
-    ui.input_slider("mass", "Mass", 2000, 6000, 6000)
-    ui.input_checkbox_group(
-        "species",
-        "Species",
-        ["Adelie", "Gentoo", "Chinstrap"],
-        selected=["Adelie", "Gentoo", "Chinstrap"],
-    )
-
-
-with ui.layout_column_wrap(fill=False):
-    with ui.value_box(showcase=icon_svg("earlybirds")):
-        "Number of penguins"
-
-        @render.text
-        def count():
-            return filtered_df().shape[0]
-
-    with ui.value_box(showcase=icon_svg("ruler-horizontal")):
-        "Average bill length"
-
-        @render.text
-        def bill_length():
-            return f"{filtered_df()['bill_length_mm'].mean():.1f} mm"
-
-    with ui.value_box(showcase=icon_svg("ruler-vertical")):
-        "Average bill depth"
-
-        @render.text
-        def bill_depth():
-            return f"{filtered_df()['bill_depth_mm'].mean():.1f} mm"
-
-
-with ui.layout_columns():
-    with ui.card(full_screen=True):
-        ui.card_header("Bill length and depth")
-
-        @render.plot
-        def length_depth():
-            return sns.scatterplot(
-                data=filtered_df(),
-                x="bill_length_mm",
-                y="bill_depth_mm",
-                hue="species",
-            )
-
-    with ui.card(full_screen=True):
-        ui.card_header("Penguin data")
-
-        @render.data_frame
-        def summary_statistics():
-            cols = [
-                "species",
-                "island",
-                "bill_length_mm",
-                "bill_depth_mm",
-                "body_mass_g",
-            ]
-            return render.DataGrid(filtered_df()[cols], filters=True)
-
-
-ui.include_css(app_dir / "styles.css")
-
+app_ui = ui.page_sidebar(
+    ui.sidebar(
+        ui.input_slider("connectors_filter", "Max number of connectors", 0, 20, 0),
+        ui.input_checkbox_group(
+            "amenities_filter",
+            "Type of Amenities",
+            ["Adelie", "Gentoo", "Chinstrap"],
+            selected=["Adelie", "Gentoo", "Chinstrap"],
+        )
+    ),
+    ui.layout_column_wrap(
+ui.h2("Filtered Charging Stations"),
+        fill=False
+    ),
+    ui.include_css(assets_dir / "styles.css"),
+    title="Restaurant tipping",
+    fillable=True,
+)
 
 def server(input, output, session):
 
     data_store_charging = reactive.Value()
     data_store_utilization = reactive.Value()
 
-    charging_data, utilization_data = convert_data_into_pandas(get_data_from_api())
+    charging_data, utilization_data = load_data_into_pandas(assets_dir)
 
     data_store_charging.set(charging_data)
     data_store_utilization.set(utilization_data)
 
-    
+    @reactive.effect
+    def _load_choices():
+        df = data_store_charging.get()
 
+        # Flatten list of amenities
+        all_amenities = sorted({a for lst in df["amenities"] for a in lst})
 
+        # Update UI choices
+        ui.update_checkbox_group(
+            "amenities_filter",
+            choices=all_amenities,
+            selected=[]
+        )
 
-@reactive.calc
-def filtered_df():
+        # What is the max number of connectors?
+        max_chargers = df["totalConnectors"].max()
 
+        # Update UI choices
+        ui.update_slider(
+            "connectors_filter",
+            min=0,
+            max=max_chargers
+        )
 
-    print(utilization_data.head(5))
-
-    filt_df = df[df["species"].isin(input.species())]
-    filt_df = filt_df.loc[filt_df["body_mass_g"] < input.mass()]
-    return filt_df
+app = App(app_ui, server)
