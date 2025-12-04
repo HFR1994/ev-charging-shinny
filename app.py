@@ -191,8 +191,8 @@ def server(input, output, session):
             initialize.set(False)
 
     @reactive.effect
-    @reactive.event(input.station_filter)
-    @reactive.event(utilization_data)
+    @reactive.event(input.station_filter, ignore_none=False)
+    @reactive.event(utilization_data, ignore_none=False)
     def change_graph():
         _, df_utilization = apply_filter()
 
@@ -251,7 +251,6 @@ def server(input, output, session):
             # Auto-layout grid
             return ui.layout_column_wrap(*card_list, width="300px")
 
-        print("Render empty")
         return ui.div()
 
     def render_plot_func(charger_df):
