@@ -1,3 +1,7 @@
 :root {
   --bslib-sidebar-main-bg: #f8f8f8;
 }
+
+.shiny-options-group {
+    margin-top: 10px!important;
+}

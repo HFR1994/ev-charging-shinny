@@ -1,9 +1,11 @@
+import ast
 import json
 import os
 import urllib.request
 import urllib.error
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 
 def get_data_from_api(url: str = "https://charging.eviny.no/api/map/chargingStations") -> dict:
@@ -35,6 +37,21 @@ def get_data_from_api(url: str = "https://charging.eviny.no/api/map/chargingStat
         print(f"JSON decoding error: {e}")
         return {}
 
+def parse_array(column: str):
+    """
+    Transforms str to an array
+
+    Args:
+        data_dir (str): CSV folder path.
+
+    Returns:
+        tuple: With two data frames.
+    """
+    try:
+        return ast.literal_eval(column) if isinstance(column, str) else []
+    except:
+        return []
+
 
 def load_data_into_pandas(data_dir: str) -> tuple[pd.DataFrame, pd.DataFrame]:
     """
@@ -56,6 +73,9 @@ def load_data_into_pandas(data_dir: str) -> tuple[pd.DataFrame, pd.DataFrame]:
     # Utilization Data #
     utilization_data = load_csv_data(os.path.join(data_dir, "tariff_historical.csv"))
 
+    # Fix amenities
+    charging_data["amenities"] = charging_data["amenities"].apply(parse_array)
+
     return charging_data, utilization_data
 
 
@@ -71,7 +91,6 @@ def load_csv_data(file_name: str) -> pd.DataFrame:
     """
 
     return pd.read_csv(file_name)
-
 
 app_dir = Path(__file__).parent.parent
 assets_dir = app_dir / "assets"

@@ -1,331 +1,331 @@
-id,name,address,description,location.lat,location.lng,amenities,totalConnectors
-B8S7YSLRUBVUO,Agerbæk Børnehus,Debelvej 25,Parkering ved børnehuset.,55.60349,8.811343,[],4
-B9OXSNAF20Z5S,Agerbæk Torv,Fåborgvej 177,,55.600484,8.8022,"['SHOPPING', 'CAFE']",4
+id,name,address,description,latitud,longitud,amenities
+B8S7YSLRUBVUO,Agerbæk Børnehus,Debelvej 25,Parkering ved børnehuset.,55.60349,8.811343,[]
+B9OXSNAF20Z5S,Agerbæk Torv,Fåborgvej 177,,55.600484,8.8022,"['SHOPPING', 'CAFE']"
 Alnasenter,Alna Senter,Strømsveien 245,"Lynladere i 1 etg utendørs parkeringshus ved Meny. AC-ladere øverste etasje utendørs parkeringshus ved Meny.
-",59.926581,10.849327,"['RESTROOM', 'SHOPPING', 'CAFE']",17
-B8GEWDTNZ8LXC,Alstad Kro og Camping,Alstad 1,,68.272286,13.936212,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'TRUCK', 'WIFI', 'CAFE', 'CAR_TRAILER']",8
-BA3I6G2IEG4CG,Altdorf,Prackenfelser Str. 8,,49.381735,11.344057,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",8
-Alti-Brotorvet,Alti Brotorvet,Gangveien 10,,59.046011,9.694568,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",17
-BAKY63AK4WMWW,Alti Farmandstredet,Jernbanegaten 1D,Ladestasjonen er i øverste etasje i parkeringshuset. Se Aimo Park for åpningstider. ,59.26925,10.413556,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-Alti-Futura,"Alti Futura, Kristiansund",Industriveien 17,,63.110681,7.779991,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",24
-B9KADFELASW74,Alti Førde,Naustdalsvegen 4,Laderne befinner seg i andre etasje i parkeringsanlegget på senteret.,61.453011,5.851308,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-B85C94RD1TWQO,Alti Heim,Industriveien 1,,63.293651,9.082761,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",14
-B89PIFW62O000,Alti Kragerø,Kjølebrøndsveien 1,,58.894463,9.283122,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",9
-B97SNJ7FVYM80,Alti Lyngdal,Fiboveien 1,,58.155522,7.100158,[],10
-B7V0FSHHQSZCW,Alti Magneten,Moafjæra 14,,63.7336,11.282739,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",20
-Alti-Mandal,Alti Mandal,Skarvøyveien 55 ,"Noen kan oppleve dårlig mobildekning i P-huset. Ved problemer med start/stopp av lading, gå mot utkjørsel og prøv igjen.",58.028529,7.461679,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'WIFI', 'CAFE']",6
-B8D1UT4R90OAO,Alti Nerstranda,Strandgata 9,Ladere plassert i Nerstranda p-hus. Parkeringsavgift kommer i tillegg,69.64651,18.953944,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",12
-Alti-Nordbyen,Alti Nordbyen,Yttersøveien 2,,59.068016,10.045077,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",16
-Alti-Nordfjord,Alti Nordfjord,Sjøgata 21,,61.908937,5.985502,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",9
-Åndalsnes Alti,"Alti Rauma, Åndalsnes",Øran Øst,,62.557948,7.685195,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-Alti-Storkaia,"Alti Storkaia, Kristiansund",Storgata 15,,63.109439,7.731469,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-Alti-Sunndal,Alti Sunndal,Sunndalsvegen 17,,62.672076,8.569267,"['RESTROOM', 'SHOPPING', 'CAFE']",7
-Surnadal,Alti Surnadal,Øravegen 4,,62.969172,8.712213,"['RESTROOM', 'SHOPPING', 'CAFE']",11
-Alti Svolvær,Alti Svolvær,Lofotgata 33,,68.234445,14.559926,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",15
-B8U7VTWK887I8,Alti Tasta,Tastatunet 1-3,Ladestasjon i P-hus,58.98455,5.689937,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",10
-Alti-Tynset,Alti Tynset,Brugata 1,,62.276411,10.777863,"['RESTROOM', 'SHOPPING', 'CAFE']",11
-B7V0E2MLDLOG0,Alti Verdal,Magnus den Godes veg 23,,63.782576,11.469371,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE']",10
-BA40KC0NS0U0W,Alti Vestnes,Kjøpmannsgata 10,,62.622487,7.091645,"['RESTROOM', 'RESTAURANT', 'TRUCK', 'CAFE']",10
-B8Z2PRNYCBTVK,Alti Vinterbro,Sjøskogenveien 7,,59.739619,10.768229,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",18
-Alti-Orsta,Alti Ørsta,Vikøyrane 4,,62.19929,6.12445,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-B8JE5AD8AIK1S,Alvdal,Nord-Østerdalsveien 2200,Fire lynladere ved Coop Extra og fire utenfor hotellet.,62.114988,10.616927,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",20
-B9FBU8MSFMQRK,Alvesta,Allbogatan 11,ICA Supermarket Alvesta,56.89962,14.552017,"['RESTROOM', 'REST_STOP']",7
-amfi,AMFI Voss,Hardangervegen 25,,60.629118,6.433577,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",3
-Andøy_Taxi,Andøy Taxi,Falcksgate 9,,69.320753,16.119339,"['TRUCK', 'CAR_TRAILER']",5
-BAAXSJDVBGAGW,Arninge - Täby,Kundvägen 1E,ICA Maxi Arninge,59.462112,18.128901,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",24
-BAHYIUQIOJXFK,Arvidsjaur,Garvaregatan 1,Arvidsjaur Centrum,65.59237,19.17323,"['REST_STOP', 'SHOPPING']",5
-B9VDP1WLSX6O0,Askersund,Stöökagatan 13,"ICA Torghallen, Askersund",58.880465,14.904251,[],6
-Askvoll,Askvoll,Askvollvegen 408,,61.347034,5.064472,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'TRUCK']",6
-B8BS0DLZJNVUO,Aukra,Nyjordvegen 1,Aukrasenteret,62.803756,6.887885,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",8
-Aurland,"Aurland, Sognaporten",Skulevegen 58,,60.898685,7.210775,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAFE', 'CAR_TRAILER']",15
-BATRE0AJKVOXS,Avesta,Myntgatan 3-5  ,Avesta Centrum,60.146,16.173575,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",5
-BAACBY6FFB9J4,Bad Saulgau,Platzstraße 20,,48.00917,9.50912,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-B9KKYNQ96WC8W,Bad Windsheim,Rothenburger Straße 45,,49.498825,10.410934,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-Balestrand,Balestrand,Kaivegen 8,,61.210092,6.533104,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",8
-BOS Kokstad,Bertel O. Steen Kokstad,Kokstaddalen 53,Ladestasjonen er åpen for alle og tilgjengelig hele døgnet,60.29666,5.253858,[],6
-B80DDI859GYKG,Birsta - Sundsvall,Antennvägen 11,ICA MAXI Birsta,62.442664,17.34499,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",20
-Bispgården,Bispgården,Forsvägen 22,ICA Nära Forsen,63.027949,16.620566,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",5
-BA438AFVDVK00,Blaubeuren,Württemberger Str. 4,,48.402473,9.79027,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAR_TRAILER']",8
-B8X3PT1BMXCLC,Blåbjergskolen,Sønder Allé 18A,,55.77742,8.29486,[],4
-Boden,Boden,Lulevägen 27,ICA Kvantum Boden,65.816208,21.709256,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-BA8KLWG6R05Q8,Boglundsängen - Örebro,Boglundsgatan 2,,59.297822,15.205313,"['RESTROOM', 'CAFE', 'CAR_TRAILER']",28
-B84J21I4WXJB4,Borlänge,Mjälgavägen 2,ICA Maxi Borlänge,60.482292,15.446913,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-B8WZ5C4CXH79C,Bortelid ,Kapellodden 1,,58.817673,7.470975,"['SHOPPING', 'TRUCK', 'CAR_TRAILER']",19
-Bredbyn,Bredbyn,Köpmangatan 34,Bredbyns gästgiveri,63.449042,18.105863,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'TRUCK', 'WIFI', 'CAFE', 'CAR_TRAILER']",5
-BA0X3NKYQ2J9C,Bromölla,Tians väg 4,,56.066728,14.478729,[],9
-brusand,Brusand,Bru 17,Merk: Toalett i Coop Marked sin åpningstid,58.539745,5.746894,"['RESTROOM', 'SHOPPING']",6
-B8T0BN6FPSRNK,Bryn Senter, Østensjøveien 79,"Ladestasjon i garasjeanlegg. Om porten er lukket, kjør mot porten og den vil åpne seg automatisk. Området er videoovervåket.",59.9029,10.82226,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",28
-bryne,Bryne - Rådhuset,Arne Garborgs veg 26,,58.73592,5.650886,"['REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",9
-Bud,Bud,Gjerdevegen 3,,62.906657,6.917758,"['RESTROOM', 'SHOPPING']",5
-Bjorli,Bunnpris Bjorli,Bjorlivegen 11,,62.25906,8.20753,"['RESTROOM', 'SHOPPING']",11
-B8RNTE8F28IYO,Bunnpris Bogøy,Bogveien 5,,67.898196,15.197798,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",3
-B9S78T7L0XFCW,Bunnpris Eiken,Eikenveien 117,,58.464447,7.23196,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-B9WGFP41AX0QO,Bunnpris Myre,Storgata 39,,68.914642,15.093056,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",8
-B8BR67I1KP2BK,Bunnpris Setermoen,Industriveien 2,,68.877339,18.356173,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",12
-Buskerud,Buskerud Storsenter,Sandsgata 20,,59.756915,10.001678,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",32
-B8H7JEGA1VGU8,Bygdeå,Prästgärdan 1,ICA Nära Bygdeå & Frasses,64.061418,20.848647,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-Bygland,Bygland,Presteneset 10,,58.827681,7.79535,"['RESTROOM', 'REST_STOP', 'CAFE']",3
-Byrkjedalstunet,Byrkjedalstunet,Hunnedalsvegen 3231,,58.779917,6.316472,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'CAFE']",6
-B9WNKWI65F7CW,Bystasjonen Sandnes,Vågsgata 16,I parkeringshus under senteret,58.849952,5.735581,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']",8
-Bø Senter,Bø Senteret,Stasjonsvegen 28,,59.41132,9.07084,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",9
-B90QWCVQ90YKG,Børnehaven Østervang,Østervang 3A,,55.630553,8.494178,[],4
-B9S6YHSWYS64G,Børnehuset Elverhøj,Tjørnegården 1,,55.699266,11.698952,[],2
-CC-Drammen,CC Drammen,Tomtegata 36,AC ladere på P-plan 2.,59.74069,10.2224,"['RESTROOM', 'SHOPPING', 'CAFE']",20
-B8XRTCHL6T05C,CC Vest,Lilleakerveien 16  ,,59.918097,10.634531,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",20
-BA0XUA1B8MW3K,Coesfeld,Hansestraße 2-18,,51.938651,7.16599,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",8
-B86WQR839XUYO,Coop Extra Stabburveien,Stabburveien 1,,59.237794,10.965903,"['RESTROOM', 'SHOPPING']",8
-BANF205KUQM0W,Coop Extra Storsvingen,Storsvingen 3,,70.6525,23.660125,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",4
-Sykkylven,Coop Extra Sykkylven,Auregata 11,,62.392383,6.583542,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",7
-BALNFJY9ZA8E8,Coswig,Moritzburgerstraße 84,,51.139762,13.593418,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-Dale Sunnfjord,Dale i Sunnfjord,Dalstunet 6A,,61.364418,5.401086,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-Dale sentrum,Dale Sentrum,Bråtet 1,,60.589607,5.820048,"['RESTROOM', 'SHOPPING']",8
-B94Q5U92KGVLS,Dalegarden,Dale Industriområde 14,,60.583326,5.796289,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'TRUCK', 'CAFE', 'CAR_TRAILER']",20
-Dalen,Dalen Telemarkskanalen,Storvegen 4,,59.445387,8.023004,"['RESTROOM', 'REST_STOP', 'CAFE']",7
-Danmarksplass,Danmarksplass,Edvard Griegs vei 3,Maksimal ladetid er 3 timer. Parkering kontrolleres av Vestpark.,60.37392,5.340455,"['RESTAURANT', 'SHOPPING', 'CAFE']",36
-BAAYJKEMXLDDS,Delitzsch FMZ,Sachsenstraße 8,,51.537809,12.32392,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",8
-BA439OIXWSV0G,Delitzsch PEP,Raiffeisenstraße 1,,51.512328,12.335914,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",8
-Langevåg,"Devoldfabrikken, Langevåg",Geilneset 16,"Lynladere på baksiden, AC ladere på framsiden mot sjøen.",62.439823,6.190834,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",10
-B8HBXDAUUTGQO,Digerneset Truck Stop,Digernes Næringsområde 23,Ladestasjon for tyngre kjøretøy,62.494909,6.61327,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAR_TRAILER']",4
-Dombås,Dombås,Sentralplassen 1C,,62.074736,9.127917,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",18
-Down Town,Down Town Senter ,Kulltangveien 70,,59.137833,9.639557,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",28
-BAKL3V3C3AFI8,Drejebænken,Drejebænken 6,,55.353164,10.420794,"['RESTROOM', 'RESTAURANT', 'CAFE', 'CAR_TRAILER']",28
-BA01AY8O0AMF4,Düren,Neusser Straße 43,,50.842644,6.486259,"['RESTROOM', 'SHOPPING', 'CAFE']",4
-Eidfjord,Eidfjord,Ostangvegen 10,,60.467226,7.068631,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",26
-Eikedalen,Eikedalen Skisenter,Kråvegen 108,,60.405014,5.916836,"['RESTROOM', 'CAFE']",6
-B8VZZ9D4RMXVK,Eikerapen Skisenter,Eikerapsvegen 491,Lader kan dessverre ikke repareres og vil bli erstattet med en ny i løpet av de kommende ukene.,58.538859,7.356921,[],3
-B9I0GW9J7T7UO,Eivindvik,Eivindvikvegen 1092,,60.979762,5.078568,"['RESTROOM', 'SHOPPING', 'TRUCK']",6
-BAPIHYOG9E328,Ekholmen - Linköping,Ekholmens centrum,Ekholmens Köpcentrum,58.380657,15.682878,['RESTROOM'],8
-BAJGTIL4T8VSW,Eksjö,Prästgatan 4,ICA Supermarket,57.665999,14.976752,['RESTROOM'],5
+",59.926581,10.849327,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8GEWDTNZ8LXC,Alstad Kro og Camping,Alstad 1,,68.272286,13.936212,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'TRUCK', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+BA3I6G2IEG4CG,Altdorf,Prackenfelser Str. 8,,49.381735,11.344057,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+Alti-Brotorvet,Alti Brotorvet,Gangveien 10,,59.046011,9.694568,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAKY63AK4WMWW,Alti Farmandstredet,Jernbanegaten 1D,Ladestasjonen er i øverste etasje i parkeringshuset. Se Aimo Park for åpningstider. ,59.26925,10.413556,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Alti-Futura,"Alti Futura, Kristiansund",Industriveien 17,,63.110681,7.779991,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9KADFELASW74,Alti Førde,Naustdalsvegen 4,Laderne befinner seg i andre etasje i parkeringsanlegget på senteret.,61.453011,5.851308,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B85C94RD1TWQO,Alti Heim,Industriveien 1,,63.293651,9.082761,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B89PIFW62O000,Alti Kragerø,Kjølebrøndsveien 1,,58.894463,9.283122,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+B97SNJ7FVYM80,Alti Lyngdal,Fiboveien 1,,58.155522,7.100158,[]
+B7V0FSHHQSZCW,Alti Magneten,Moafjæra 14,,63.7336,11.282739,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Alti-Mandal,Alti Mandal,Skarvøyveien 55 ,"Noen kan oppleve dårlig mobildekning i P-huset. Ved problemer med start/stopp av lading, gå mot utkjørsel og prøv igjen.",58.028529,7.461679,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'WIFI', 'CAFE']"
+B8D1UT4R90OAO,Alti Nerstranda,Strandgata 9,Ladere plassert i Nerstranda p-hus. Parkeringsavgift kommer i tillegg,69.64651,18.953944,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Alti-Nordbyen,Alti Nordbyen,Yttersøveien 2,,59.068016,10.045077,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Alti-Nordfjord,Alti Nordfjord,Sjøgata 21,,61.908937,5.985502,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+Åndalsnes Alti,"Alti Rauma, Åndalsnes",Øran Øst,,62.557948,7.685195,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Alti-Storkaia,"Alti Storkaia, Kristiansund",Storgata 15,,63.109439,7.731469,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Alti-Sunndal,Alti Sunndal,Sunndalsvegen 17,,62.672076,8.569267,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Surnadal,Alti Surnadal,Øravegen 4,,62.969172,8.712213,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Alti Svolvær,Alti Svolvær,Lofotgata 33,,68.234445,14.559926,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+B8U7VTWK887I8,Alti Tasta,Tastatunet 1-3,Ladestasjon i P-hus,58.98455,5.689937,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Alti-Tynset,Alti Tynset,Brugata 1,,62.276411,10.777863,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B7V0E2MLDLOG0,Alti Verdal,Magnus den Godes veg 23,,63.782576,11.469371,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE']"
+BA40KC0NS0U0W,Alti Vestnes,Kjøpmannsgata 10,,62.622487,7.091645,"['RESTROOM', 'RESTAURANT', 'TRUCK', 'CAFE']"
+B8Z2PRNYCBTVK,Alti Vinterbro,Sjøskogenveien 7,,59.739619,10.768229,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Alti-Orsta,Alti Ørsta,Vikøyrane 4,,62.19929,6.12445,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B8JE5AD8AIK1S,Alvdal,Nord-Østerdalsveien 2200,Fire lynladere ved Coop Extra og fire utenfor hotellet.,62.114988,10.616927,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B9FBU8MSFMQRK,Alvesta,Allbogatan 11,ICA Supermarket Alvesta,56.89962,14.552017,"['RESTROOM', 'REST_STOP']"
+amfi,AMFI Voss,Hardangervegen 25,,60.629118,6.433577,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Andøy_Taxi,Andøy Taxi,Falcksgate 9,,69.320753,16.119339,"['TRUCK', 'CAR_TRAILER']"
+BAAXSJDVBGAGW,Arninge - Täby,Kundvägen 1E,ICA Maxi Arninge,59.462112,18.128901,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+BAHYIUQIOJXFK,Arvidsjaur,Garvaregatan 1,Arvidsjaur Centrum,65.59237,19.17323,"['REST_STOP', 'SHOPPING']"
+B9VDP1WLSX6O0,Askersund,Stöökagatan 13,"ICA Torghallen, Askersund",58.880465,14.904251,[]
+Askvoll,Askvoll,Askvollvegen 408,,61.347034,5.064472,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'TRUCK']"
+B8BS0DLZJNVUO,Aukra,Nyjordvegen 1,Aukrasenteret,62.803756,6.887885,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Aurland,"Aurland, Sognaporten",Skulevegen 58,,60.898685,7.210775,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+BATRE0AJKVOXS,Avesta,Myntgatan 3-5  ,Avesta Centrum,60.146,16.173575,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+BAACBY6FFB9J4,Bad Saulgau,Platzstraße 20,,48.00917,9.50912,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B9KKYNQ96WC8W,Bad Windsheim,Rothenburger Straße 45,,49.498825,10.410934,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Balestrand,Balestrand,Kaivegen 8,,61.210092,6.533104,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+BOS Kokstad,Bertel O. Steen Kokstad,Kokstaddalen 53,Ladestasjonen er åpen for alle og tilgjengelig hele døgnet,60.29666,5.253858,[]
+B80DDI859GYKG,Birsta - Sundsvall,Antennvägen 11,ICA MAXI Birsta,62.442664,17.34499,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Bispgården,Bispgården,Forsvägen 22,ICA Nära Forsen,63.027949,16.620566,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BA438AFVDVK00,Blaubeuren,Württemberger Str. 4,,48.402473,9.79027,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAR_TRAILER']"
+B8X3PT1BMXCLC,Blåbjergskolen,Sønder Allé 18A,,55.77742,8.29486,[]
+Boden,Boden,Lulevägen 27,ICA Kvantum Boden,65.816208,21.709256,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA8KLWG6R05Q8,Boglundsängen - Örebro,Boglundsgatan 2,,59.297822,15.205313,"['RESTROOM', 'CAFE', 'CAR_TRAILER']"
+B84J21I4WXJB4,Borlänge,Mjälgavägen 2,ICA Maxi Borlänge,60.482292,15.446913,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B8WZ5C4CXH79C,Bortelid ,Kapellodden 1,,58.817673,7.470975,"['SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Bredbyn,Bredbyn,Köpmangatan 34,Bredbyns gästgiveri,63.449042,18.105863,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'TRUCK', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+BA0X3NKYQ2J9C,Bromölla,Tians väg 4,,56.066728,14.478729,[]
+brusand,Brusand,Bru 17,Merk: Toalett i Coop Marked sin åpningstid,58.539745,5.746894,"['RESTROOM', 'SHOPPING']"
+B8T0BN6FPSRNK,Bryn Senter, Østensjøveien 79,"Ladestasjon i garasjeanlegg. Om porten er lukket, kjør mot porten og den vil åpne seg automatisk. Området er videoovervåket.",59.9029,10.82226,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+bryne,Bryne - Rådhuset,Arne Garborgs veg 26,,58.73592,5.650886,"['REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Bud,Bud,Gjerdevegen 3,,62.906657,6.917758,"['RESTROOM', 'SHOPPING']"
+Bjorli,Bunnpris Bjorli,Bjorlivegen 11,,62.25906,8.20753,"['RESTROOM', 'SHOPPING']"
+B8RNTE8F28IYO,Bunnpris Bogøy,Bogveien 5,,67.898196,15.197798,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+B9S78T7L0XFCW,Bunnpris Eiken,Eikenveien 117,,58.464447,7.23196,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B9WGFP41AX0QO,Bunnpris Myre,Storgata 39,,68.914642,15.093056,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+B8BR67I1KP2BK,Bunnpris Setermoen,Industriveien 2,,68.877339,18.356173,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Buskerud,Buskerud Storsenter,Sandsgata 20,,59.756915,10.001678,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B8H7JEGA1VGU8,Bygdeå,Prästgärdan 1,ICA Nära Bygdeå & Frasses,64.061418,20.848647,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Bygland,Bygland,Presteneset 10,,58.827681,7.79535,"['RESTROOM', 'REST_STOP', 'CAFE']"
+Byrkjedalstunet,Byrkjedalstunet,Hunnedalsvegen 3231,,58.779917,6.316472,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'CAFE']"
+B9WNKWI65F7CW,Bystasjonen Sandnes,Vågsgata 16,I parkeringshus under senteret,58.849952,5.735581,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']"
+Bø Senter,Bø Senteret,Stasjonsvegen 28,,59.41132,9.07084,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B90QWCVQ90YKG,Børnehaven Østervang,Østervang 3A,,55.630553,8.494178,[]
+B9S6YHSWYS64G,Børnehuset Elverhøj,Tjørnegården 1,,55.699266,11.698952,[]
+CC-Drammen,CC Drammen,Tomtegata 36,AC ladere på P-plan 2.,59.74069,10.2224,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8XRTCHL6T05C,CC Vest,Lilleakerveien 16  ,,59.918097,10.634531,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+BA0XUA1B8MW3K,Coesfeld,Hansestraße 2-18,,51.938651,7.16599,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B86WQR839XUYO,Coop Extra Stabburveien,Stabburveien 1,,59.237794,10.965903,"['RESTROOM', 'SHOPPING']"
+BANF205KUQM0W,Coop Extra Storsvingen,Storsvingen 3,,70.6525,23.660125,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Sykkylven,Coop Extra Sykkylven,Auregata 11,,62.392383,6.583542,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BALNFJY9ZA8E8,Coswig,Moritzburgerstraße 84,,51.139762,13.593418,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Dale Sunnfjord,Dale i Sunnfjord,Dalstunet 6A,,61.364418,5.401086,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Dale sentrum,Dale Sentrum,Bråtet 1,,60.589607,5.820048,"['RESTROOM', 'SHOPPING']"
+B94Q5U92KGVLS,Dalegarden,Dale Industriområde 14,,60.583326,5.796289,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Dalen,Dalen Telemarkskanalen,Storvegen 4,,59.445387,8.023004,"['RESTROOM', 'REST_STOP', 'CAFE']"
+Danmarksplass,Danmarksplass,Edvard Griegs vei 3,Maksimal ladetid er 3 timer. Parkering kontrolleres av Vestpark.,60.37392,5.340455,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+BAAYJKEMXLDDS,Delitzsch FMZ,Sachsenstraße 8,,51.537809,12.32392,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA439OIXWSV0G,Delitzsch PEP,Raiffeisenstraße 1,,51.512328,12.335914,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Langevåg,"Devoldfabrikken, Langevåg",Geilneset 16,"Lynladere på baksiden, AC ladere på framsiden mot sjøen.",62.439823,6.190834,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8HBXDAUUTGQO,Digerneset Truck Stop,Digernes Næringsområde 23,Ladestasjon for tyngre kjøretøy,62.494909,6.61327,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAR_TRAILER']"
+Dombås,Dombås,Sentralplassen 1C,,62.074736,9.127917,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Down Town,Down Town Senter ,Kulltangveien 70,,59.137833,9.639557,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAKL3V3C3AFI8,Drejebænken,Drejebænken 6,,55.353164,10.420794,"['RESTROOM', 'RESTAURANT', 'CAFE', 'CAR_TRAILER']"
+BA01AY8O0AMF4,Düren,Neusser Straße 43,,50.842644,6.486259,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Eidfjord,Eidfjord,Ostangvegen 10,,60.467226,7.068631,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Eikedalen,Eikedalen Skisenter,Kråvegen 108,,60.405014,5.916836,"['RESTROOM', 'CAFE']"
+B8VZZ9D4RMXVK,Eikerapen Skisenter,Eikerapsvegen 491,Lader kan dessverre ikke repareres og vil bli erstattet med en ny i løpet av de kommende ukene.,58.538859,7.356921,[]
+B9I0GW9J7T7UO,Eivindvik,Eivindvikvegen 1092,,60.979762,5.078568,"['RESTROOM', 'SHOPPING', 'TRUCK']"
+BAPIHYOG9E328,Ekholmen - Linköping,Ekholmens centrum,Ekholmens Köpcentrum,58.380657,15.682878,['RESTROOM']
+BAJGTIL4T8VSW,Eksjö,Prästgatan 4,ICA Supermarket,57.665999,14.976752,['RESTROOM']
 B9H3G1KE6GFEO,Ekängen - Eskilstuna,Strängnäsvägen 11,"
-Laddkablarna på denna anläggning har tyvärr blivit stulna. Vi arbetar skyndsamt med att åtgärda problemet och ersätta kablarna så snart som möjligt. Tack för ert tålamod. ",59.373508,16.556585,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-AkerBrygge,Elbåtlading - Plug Aker Brygge Marina,Stranden 11,Elbåtlading på Aker Brygge Marina,59.909104,10.726448,"['RESTAURANT', 'SHOPPING', 'CAFE']",14
-B8J7HEHFFIQ68,Elbåtlading - Plug Arendal Gjestehavn,Rådhusgaten 18,,58.456818,8.76339,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']",2
-Blindtarmen,Elbåtlading - Plug Blindtarmen,kong christian frederiks plass 1,,60.382746,5.32443,[],1
-Henningsvær,Elbåtlading - Plug Henningsvær,Dreyersgate,Kun elbåtlading ,68.154556,14.204634,"['RESTAURANT', 'SHOPPING', 'CAFE']",2
-B8J3P85WTRXMO,Elbåtlading - Plug Horten Gjestehavn,,Lading av elbåter i Horten,59.413209,10.487891,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",4
-Leangbukten,Elbåtlading - Plug Leangbukten båtforening,Leangbukta 56,Elbåtlading på Krusers plasser,59.835245,10.478298,"['RESTAURANT', 'CAFE']",3
-B9TSEE9YYROQO,Elbåtlading - Plug Notodden Nesøya Marina,Nesøya Marina,Elbåtlading i Notodden.,59.559115,9.246707,"['RESTROOM', 'REST_STOP', 'RESTAURANT']",2
+Laddkablarna på denna anläggning har tyvärr blivit stulna. Vi arbetar skyndsamt med att åtgärda problemet och ersätta kablarna så snart som möjligt. Tack för ert tålamod. ",59.373508,16.556585,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+AkerBrygge,Elbåtlading - Plug Aker Brygge Marina,Stranden 11,Elbåtlading på Aker Brygge Marina,59.909104,10.726448,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+B8J7HEHFFIQ68,Elbåtlading - Plug Arendal Gjestehavn,Rådhusgaten 18,,58.456818,8.76339,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']"
+Blindtarmen,Elbåtlading - Plug Blindtarmen,kong christian frederiks plass 1,,60.382746,5.32443,[]
+Henningsvær,Elbåtlading - Plug Henningsvær,Dreyersgate,Kun elbåtlading ,68.154556,14.204634,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+B8J3P85WTRXMO,Elbåtlading - Plug Horten Gjestehavn,,Lading av elbåter i Horten,59.413209,10.487891,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Leangbukten,Elbåtlading - Plug Leangbukten båtforening,Leangbukta 56,Elbåtlading på Krusers plasser,59.835245,10.478298,"['RESTAURANT', 'CAFE']"
+B9TSEE9YYROQO,Elbåtlading - Plug Notodden Nesøya Marina,Nesøya Marina,Elbåtlading i Notodden.,59.559115,9.246707,"['RESTROOM', 'REST_STOP', 'RESTAURANT']"
 RosendalEFB,Elbåtlading - Plug Rosendal - Eide Fjordbruk brygga,Skålafjæro,"Elbåtlading
-Hovedbruker Eide Fjordbruk",59.98685,6.00566,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",2
-B9U9SATC17GG0,Elbåtlading - Plug Stavern Gjestehavn,Kronprinsens gt.,,58.997999,10.041827,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']",4
-Svolvær elbåt,Elbåtlading - Plug Svolvær Gjestehavn,Sjømannsgata,Kun elbåtlading!,68.23359,14.569269,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",6
-Tømmerstø,Elbåtlading - Plug Tømmerstø,,Elbåtlading fra Plug på Tømmerstø,58.120458,8.091775,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",9
-B8CDNDOQIPKW0,Elbåtlading og landstrøm - Plug Rosendal - Fritidsbåt hamna,Skålafjæra,,59.987283,6.00315,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",2
-Elvetorget,Elvetorget Senter,Naustdalsvegen 1A,,61.451217,5.849471,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'WIFI', 'CAFE']",14
-B9NG8QSK6QTXC,Enghavevej Varde,Enghavevej,,55.620462,8.487646,[],8
-B8XOFMJX7C8AO,Erikslund - Västerås,Traversgatan 12,ICA Maxi Erikslund,59.617432,16.464222,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-B9DX4DETM7KZK,Eslöv,Kvarngatan 1,ICA Kvantum Eslöv,55.837081,13.307,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",11
-BAAYL9WEAIV40,Essen,Albertine-Badenberg-Weg 10,,51.447348,7.074734,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-B89ECMJWK1N9C,Esso Lærdal,Øyragata 1,,61.098228,7.47393,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'TRUCK', 'CAFE', 'CAR_TRAILER']",8
-Etne,Etne,Haukelivegen 1001,P-plass foran Coop / Felleskjøpet,59.66362,5.942996,"['RESTROOM', 'SHOPPING', 'CAFE']",11
-B9XG60T1G3EGW,Etne Senter,Haukelivegen 997,"Langs vei, på P-plass til Etne Senter.",59.664134,5.941492,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-Floro-Krokane,"Eurospar Krokane, Florø",Nybøvegen 39,,61.599305,5.064604,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",4
-Evanger,Evanger,Bjørgåsvegen 8,,60.648771,6.115441,"['SHOPPING', 'CAFE']",3
-Evje,Evje,Lianvegen 2,Ladestasjonen er bak Kiwi butikken,58.586282,7.807352,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",7
-Fagernes,Fagernes Kjøpesenter,Valdresvegen 28,,60.986539,9.238304,"['RESTROOM', 'SHOPPING', 'CAFE']",15
-B8HT7Z12QU6TC,Falköping,Lönnerbladsgatan 2,ICA Maxi Falköping,58.153674,13.563428,"['RESTROOM', 'SHOPPING', 'CAFE']",16
-B967KZTZ0UU4G,Falun,Bataljonsvägen 11,ICA Maxi Falun,60.607834,15.658196,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-Feiring_Bruk,Feiring Bruk,Feiringveien 31,Tilrettelagt for tyngre kjøretøy,59.907341,10.975533,"['TRUCK', 'CAR_TRAILER']",4
-BAIZ7S9NGZXFK,Feucht,Wendelsteiner Str. 3-5,,49.365187,11.206838,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",14
-B8PK27G52QAYO,Fjellbutikken Sirdal,Sirdalsveien 8685,,59.01229,6.937658,['SHOPPING'],6
-BA40IZO089CLC,Flatøy Innfartsparkering,Krossneset,,60.531305,5.256022,[],6
-B9B23EKAPWE0W,Fogtmanns Plads,Fogtmanns Plads,,55.621694,8.480024,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']",4
-Forland,"Forland Autosenter, Skogsvåg",Skogsvågkrysset,,60.269979,5.070254,"['RESTROOM', 'SHOPPING']",6
-BA08E0X388BGG,Fredvang,Korshamnveien 14,,68.08871,13.17361,"['RESTROOM', 'REST_STOP', 'CAR_TRAILER']",5
-Frekhaug,Frekhaug,Havnevegen 1,,60.518044,5.239824,"['RESTROOM', 'SHOPPING', 'CAFE']",12
-Frekhaug Kai,Frekhaug Kai,Mjåtveitvegen 21,Pendlerparkering.,60.515284,5.246947,[],2
-BA63E9GS98JY8,Freudenstadt,Ludwig-Jahn-Straße 34,Open 07:00-21:00,48.470279,8.416188,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",8
-BA9NGHP223MRK,Friggavägen - Lidingö,Friggavägen 24,Lidingö Centrrum,59.367267,18.133577,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",6
-B9KLXZW5I7YF4,Frihedens Butikscenter,Strandmarksvej 20,Bemærk P-registrering jf. skiltning,55.627571,12.484217,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",14
-Froland,Frolandssenteret,Frolandssenteret 6-10,,58.508033,8.629766,"['RESTAURANT', 'SHOPPING', 'CAFE']",6
-Frydenlund,Frydenlund P-hus,Pilestredet 42,Innkjøring fra Falbes gate,59.92148,10.73456,"['RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",15
-BAK98R3VMEH34,Fränsta,Fränstavägen 244,ICA Nära Fränsta,62.49825,16.1799,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']",6
-B9AYAL6UT5EYO,Frölunda,Radiovägen 5,Öppen kl 7 - 23,57.64926,11.918118,"['RESTROOM', 'SHOPPING']",10
-Fyllingsdalen,Fyllingsdalen Krokatjønnveien,Krokatjønnveien 11,,60.349113,5.277187,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-BACMR1LOW188W,Fürth-Ronhof,Seeackerstraße 33,,49.49467,10.995568,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-BA63CRGK3VL6O,Füssen,Moosangerweg 22,,47.58255,10.69938,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-BAC1NPB876A68,Førde Sykehus,Svanehaugvegen 2,,61.458289,5.887961,"['RESTROOM', 'CAFE']",19
-B9KL3NVYXC8OW,Gaildorf,Schillerstraße 5,,48.999254,9.772914,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-Geilojordet,Geilo,Skurdalsvegen 1,,60.53242,8.208448,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",23
-BA8GZIUNSY0OW,Gislaved,Stinsgatan 2,,57.304141,13.543517,[],5
-Gjermundshamn,Gjermundshamn,Hatlestrandsvegen 645,,60.060833,5.914005,"['RESTROOM', 'SHOPPING']",6
-B8XZ9D88XBO5C,Gnista - Uppsala,Visthusvägen 1,ICA Maxi Gnista,59.843322,17.711337,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",14
-Granvin,Granvin,Eidesvegen 22,,60.523948,6.719123,"['RESTROOM', 'SHOPPING']",6
-BAPQEMQQOL5OG,Gressvik Torg,Julius Jacobsens vei 3,,59.217333,10.906636,[],6
-B8K3QUYAR2PDS,Grong Kjøpesenter, Granvegen 12,,64.464494,12.315878,[],15
-Grorud,Grorud Senter,Bergensveien 2,Ladere i P-hus 1. etg. Innkjøring fra Rosenbergveien. Se skilt for parkeringsbestemmelser.,59.96076,10.880783,"['RESTROOM', 'SHOPPING', 'CAFE']",22
-B8YKAIE49R5Z4,Gryta - Västerås,Grytavägen 1,ICA Kvantum Västerås,59.636929,16.545781,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'WIFI', 'CAFE']",10
-Gullesfjord,Gullesfjord Camping,Våtvollveien 1256,,68.532024,15.72729,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'BAR', 'TRUCK', 'WIFI', 'CAFE', 'CAR_TRAILER']",8
-Gullgruven,Gullgruven Senter,Liamyrane 1,,60.473219,5.333544,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",20
-BAB4LCK39JTA8,Gunnesbo - Lund,Traktorvägen 1-3,Vissa laddare ur funktion på grund av skadegörelse. Vi uppskattar de som hört av sig till vår kundtjänst.,55.71769,13.165937,"['RESTROOM', 'CAFE']",23
-Gaellivare,Gällivare,Sommarvägen 2,ICA Kvantum Gällivare,67.14817,20.660962,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-B9KL3PSDRQ60W,Göppingen,Schlater Straße 180,,48.66882,9.69434,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-Halhjem,Halhjem fergekai,Halhjem,,60.14596,5.427724,['RESTROOM'],9
-B8I00WKMN77CW,Halmstad,Kristian IV:s väg 3,ICA Maxi,56.663167,12.876457,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-BA439PCDC8IKG,Halver,Von-Vincke-Straße 42,,51.189744,7.503791,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']",4
-B8AAOK3JRDHC0,Hammarö - Karlstad,Bivägen 11,ICA Kvantum Hammarö,59.343105,13.504596,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-Haparanda,Haparanda,Hästskovägen 2,ICA Maxi Haparanda,65.841896,24.120102,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",12
-Hardbakke,Hardbakke,Storehaugen 4,,61.071742,4.840136,['SHOPPING'],6
-BA3I79EIS3R40,Hedemora,Åkargatan 11,ICA Supermarket Hedemora,60.28138,15.99531,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']",5
-B9K2GY0SO66TC,Heidal,Heidalsvegen 1770,,61.757647,9.292771,"['RESTROOM', 'SHOPPING', 'CAFE']",9
-Hellsenteret,"Hellsenteret, Stjørdal",Sandfærhus 24,,63.448573,10.912686,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",17
-B98VXKC1FBE9S,Hemlingby - Gävle,Ingenjörsgatan 1,ICA MAXI Gävle,60.645773,17.146229,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-B9NGDZA0V1HXC,Henne Strand,Strandvejen 415A,,55.738945,8.180499,"['SHOPPING', 'CAFE']",6
-B87LF26AMDSLC,Herkules Senter,Ulefossveien 32,,59.197176,9.605367,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",14
-BALK5FQS9L0QO,Herlev Bymidte Center,Herlev Torv 2,,55.724275,12.440084,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']",8
-BAACBNYD3XHXC,Herzogenaurach,Ohmstraße 10,,49.57942,10.887057,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",8
-BANPOLG68HZWG,Hesseng,E. K. Andersons vei 12,Ved EVO og Jernia,69.688152,29.993969,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",8
-B9X9GP9Y8FW1S,Hindby - Malmö,Cypressvägen 4,,55.572547,13.037551,"['RESTROOM', 'CAFE', 'CAR_TRAILER']",14
-Hjerkinn,Hjerkinn,Hjerkinnhusvegen 33,P-plass v/Hjerkinnhus Hotell,62.22127,9.544724,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'TRUCK', 'CAFE', 'CAR_TRAILER']",9
-BAGFDGU1QGYDC,Holbæk Centrum og Havn,Gasværksvej 7,,55.719223,11.710412,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE', 'CAR_TRAILER']",20
-B8PK2N6J1E29S,Hommersåk Kai,Kaiveien 27,,58.929449,5.849329,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",4
-Hosteland,Hosteland,Fensfjordveien 619,,60.834242,5.262578,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",8
-Hovden,Hovden,Skisentervegen 12,"Leveransen av ny trafo er dessverre forsinket, så vi har derfor måttet redusere effekten på 360 kW-laderne midlertidig til 180 kW.",59.561348,7.35646,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",12
+Hovedbruker Eide Fjordbruk",59.98685,6.00566,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B9U9SATC17GG0,Elbåtlading - Plug Stavern Gjestehavn,Kronprinsens gt.,,58.997999,10.041827,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']"
+Svolvær elbåt,Elbåtlading - Plug Svolvær Gjestehavn,Sjømannsgata,Kun elbåtlading!,68.23359,14.569269,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Tømmerstø,Elbåtlading - Plug Tømmerstø,,Elbåtlading fra Plug på Tømmerstø,58.120458,8.091775,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+B8CDNDOQIPKW0,Elbåtlading og landstrøm - Plug Rosendal - Fritidsbåt hamna,Skålafjæra,,59.987283,6.00315,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Elvetorget,Elvetorget Senter,Naustdalsvegen 1A,,61.451217,5.849471,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'WIFI', 'CAFE']"
+B9NG8QSK6QTXC,Enghavevej Varde,Enghavevej,,55.620462,8.487646,[]
+B8XOFMJX7C8AO,Erikslund - Västerås,Traversgatan 12,ICA Maxi Erikslund,59.617432,16.464222,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9DX4DETM7KZK,Eslöv,Kvarngatan 1,ICA Kvantum Eslöv,55.837081,13.307,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BAAYL9WEAIV40,Essen,Albertine-Badenberg-Weg 10,,51.447348,7.074734,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B89ECMJWK1N9C,Esso Lærdal,Øyragata 1,,61.098228,7.47393,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Etne,Etne,Haukelivegen 1001,P-plass foran Coop / Felleskjøpet,59.66362,5.942996,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B9XG60T1G3EGW,Etne Senter,Haukelivegen 997,"Langs vei, på P-plass til Etne Senter.",59.664134,5.941492,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Floro-Krokane,"Eurospar Krokane, Florø",Nybøvegen 39,,61.599305,5.064604,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Evanger,Evanger,Bjørgåsvegen 8,,60.648771,6.115441,"['SHOPPING', 'CAFE']"
+Evje,Evje,Lianvegen 2,Ladestasjonen er bak Kiwi butikken,58.586282,7.807352,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Fagernes,Fagernes Kjøpesenter,Valdresvegen 28,,60.986539,9.238304,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8HT7Z12QU6TC,Falköping,Lönnerbladsgatan 2,ICA Maxi Falköping,58.153674,13.563428,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B967KZTZ0UU4G,Falun,Bataljonsvägen 11,ICA Maxi Falun,60.607834,15.658196,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Feiring_Bruk,Feiring Bruk,Feiringveien 31,Tilrettelagt for tyngre kjøretøy,59.907341,10.975533,"['TRUCK', 'CAR_TRAILER']"
+BAIZ7S9NGZXFK,Feucht,Wendelsteiner Str. 3-5,,49.365187,11.206838,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8PK27G52QAYO,Fjellbutikken Sirdal,Sirdalsveien 8685,,59.01229,6.937658,['SHOPPING']
+BA40IZO089CLC,Flatøy Innfartsparkering,Krossneset,,60.531305,5.256022,[]
+B9B23EKAPWE0W,Fogtmanns Plads,Fogtmanns Plads,,55.621694,8.480024,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']"
+Forland,"Forland Autosenter, Skogsvåg",Skogsvågkrysset,,60.269979,5.070254,"['RESTROOM', 'SHOPPING']"
+BA08E0X388BGG,Fredvang,Korshamnveien 14,,68.08871,13.17361,"['RESTROOM', 'REST_STOP', 'CAR_TRAILER']"
+Frekhaug,Frekhaug,Havnevegen 1,,60.518044,5.239824,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Frekhaug Kai,Frekhaug Kai,Mjåtveitvegen 21,Pendlerparkering.,60.515284,5.246947,[]
+BA63E9GS98JY8,Freudenstadt,Ludwig-Jahn-Straße 34,Open 07:00-21:00,48.470279,8.416188,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA9NGHP223MRK,Friggavägen - Lidingö,Friggavägen 24,Lidingö Centrrum,59.367267,18.133577,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B9KLXZW5I7YF4,Frihedens Butikscenter,Strandmarksvej 20,Bemærk P-registrering jf. skiltning,55.627571,12.484217,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+Froland,Frolandssenteret,Frolandssenteret 6-10,,58.508033,8.629766,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+Frydenlund,Frydenlund P-hus,Pilestredet 42,Innkjøring fra Falbes gate,59.92148,10.73456,"['RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+BAK98R3VMEH34,Fränsta,Fränstavägen 244,ICA Nära Fränsta,62.49825,16.1799,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']"
+B9AYAL6UT5EYO,Frölunda,Radiovägen 5,Öppen kl 7 - 23,57.64926,11.918118,"['RESTROOM', 'SHOPPING']"
+Fyllingsdalen,Fyllingsdalen Krokatjønnveien,Krokatjønnveien 11,,60.349113,5.277187,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BACMR1LOW188W,Fürth-Ronhof,Seeackerstraße 33,,49.49467,10.995568,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA63CRGK3VL6O,Füssen,Moosangerweg 22,,47.58255,10.69938,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAC1NPB876A68,Førde Sykehus,Svanehaugvegen 2,,61.458289,5.887961,"['RESTROOM', 'CAFE']"
+B9KL3NVYXC8OW,Gaildorf,Schillerstraße 5,,48.999254,9.772914,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Geilojordet,Geilo,Skurdalsvegen 1,,60.53242,8.208448,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+BA8GZIUNSY0OW,Gislaved,Stinsgatan 2,,57.304141,13.543517,[]
+Gjermundshamn,Gjermundshamn,Hatlestrandsvegen 645,,60.060833,5.914005,"['RESTROOM', 'SHOPPING']"
+B8XZ9D88XBO5C,Gnista - Uppsala,Visthusvägen 1,ICA Maxi Gnista,59.843322,17.711337,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+Granvin,Granvin,Eidesvegen 22,,60.523948,6.719123,"['RESTROOM', 'SHOPPING']"
+BAPQEMQQOL5OG,Gressvik Torg,Julius Jacobsens vei 3,,59.217333,10.906636,[]
+B8K3QUYAR2PDS,Grong Kjøpesenter, Granvegen 12,,64.464494,12.315878,[]
+Grorud,Grorud Senter,Bergensveien 2,Ladere i P-hus 1. etg. Innkjøring fra Rosenbergveien. Se skilt for parkeringsbestemmelser.,59.96076,10.880783,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8YKAIE49R5Z4,Gryta - Västerås,Grytavägen 1,ICA Kvantum Västerås,59.636929,16.545781,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'WIFI', 'CAFE']"
+Gullesfjord,Gullesfjord Camping,Våtvollveien 1256,,68.532024,15.72729,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'BAR', 'TRUCK', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+Gullgruven,Gullgruven Senter,Liamyrane 1,,60.473219,5.333544,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+BAB4LCK39JTA8,Gunnesbo - Lund,Traktorvägen 1-3,Vissa laddare ur funktion på grund av skadegörelse. Vi uppskattar de som hört av sig till vår kundtjänst.,55.71769,13.165937,"['RESTROOM', 'CAFE']"
+Gaellivare,Gällivare,Sommarvägen 2,ICA Kvantum Gällivare,67.14817,20.660962,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B9KL3PSDRQ60W,Göppingen,Schlater Straße 180,,48.66882,9.69434,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Halhjem,Halhjem fergekai,Halhjem,,60.14596,5.427724,['RESTROOM']
+B8I00WKMN77CW,Halmstad,Kristian IV:s väg 3,ICA Maxi,56.663167,12.876457,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA439PCDC8IKG,Halver,Von-Vincke-Straße 42,,51.189744,7.503791,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']"
+B8AAOK3JRDHC0,Hammarö - Karlstad,Bivägen 11,ICA Kvantum Hammarö,59.343105,13.504596,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Haparanda,Haparanda,Hästskovägen 2,ICA Maxi Haparanda,65.841896,24.120102,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Hardbakke,Hardbakke,Storehaugen 4,,61.071742,4.840136,['SHOPPING']
+BA3I79EIS3R40,Hedemora,Åkargatan 11,ICA Supermarket Hedemora,60.28138,15.99531,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']"
+B9K2GY0SO66TC,Heidal,Heidalsvegen 1770,,61.757647,9.292771,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Hellsenteret,"Hellsenteret, Stjørdal",Sandfærhus 24,,63.448573,10.912686,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B98VXKC1FBE9S,Hemlingby - Gävle,Ingenjörsgatan 1,ICA MAXI Gävle,60.645773,17.146229,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9NGDZA0V1HXC,Henne Strand,Strandvejen 415A,,55.738945,8.180499,"['SHOPPING', 'CAFE']"
+B87LF26AMDSLC,Herkules Senter,Ulefossveien 32,,59.197176,9.605367,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BALK5FQS9L0QO,Herlev Bymidte Center,Herlev Torv 2,,55.724275,12.440084,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']"
+BAACBNYD3XHXC,Herzogenaurach,Ohmstraße 10,,49.57942,10.887057,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BANPOLG68HZWG,Hesseng,E. K. Andersons vei 12,Ved EVO og Jernia,69.688152,29.993969,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+B9X9GP9Y8FW1S,Hindby - Malmö,Cypressvägen 4,,55.572547,13.037551,"['RESTROOM', 'CAFE', 'CAR_TRAILER']"
+Hjerkinn,Hjerkinn,Hjerkinnhusvegen 33,P-plass v/Hjerkinnhus Hotell,62.22127,9.544724,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+BAGFDGU1QGYDC,Holbæk Centrum og Havn,Gasværksvej 7,,55.719223,11.710412,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE', 'CAR_TRAILER']"
+B8PK2N6J1E29S,Hommersåk Kai,Kaiveien 27,,58.929449,5.849329,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Hosteland,Hosteland,Fensfjordveien 619,,60.834242,5.262578,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Hovden,Hovden,Skisentervegen 12,"Leveransen av ny trafo er dessverre forsinket, så vi har derfor måttet redusere effekten på 360 kW-laderne midlertidig til 180 kW.",59.561348,7.35646,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
 B8ZUHTWWXAFWG,Hudiksvall,Blockvägen 1,"Öppet 07-23
-ICA Maxi Hudiksvall",61.742808,17.116417,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",10
-Hundvåg,Hundvåg Rema 1000,Hundvågveien 44,,58.99324,5.72927,"['RESTAURANT', 'SHOPPING', 'CAFE']",6
-BA9JNENHUA680,Hvidbjerg Strand,Hvidbjerg Strandvej,,55.544454,8.133461,"['RESTROOM', 'REST_STOP', 'RESTAURANT']",6
-B8QCWPB1EVOJK,Hyllinge,Dragaregatan 2,ICA Maxi. Laddplatsen öppen 05.00-22.30,56.1009,12.857361,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",20
-Hægeland,Hægeland,Hægelandssletta 12,,58.383889,7.739619,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'CAFE']",5
-B96OW4VQZ0GSG,Höga Kusten Hotell,"Hornöberget, ",,62.804153,17.951902,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",24
-B9GLIPAV59WXS,Höganäs,Lexikonvägen 1,ICA Kvantum,56.191697,12.565696,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",9
-BAZC3LPK3D8N4,Høvik Senter,O.H Bangs vei 1,,59.899415,10.581165,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
+ICA Maxi Hudiksvall",61.742808,17.116417,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+Hundvåg,Hundvåg Rema 1000,Hundvågveien 44,,58.99324,5.72927,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+BA9JNENHUA680,Hvidbjerg Strand,Hvidbjerg Strandvej,,55.544454,8.133461,"['RESTROOM', 'REST_STOP', 'RESTAURANT']"
+B8QCWPB1EVOJK,Hyllinge,Dragaregatan 2,ICA Maxi. Laddplatsen öppen 05.00-22.30,56.1009,12.857361,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Hægeland,Hægeland,Hægelandssletta 12,,58.383889,7.739619,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'CAFE']"
+B96OW4VQZ0GSG,Höga Kusten Hotell,"Hornöberget, ",,62.804153,17.951902,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+B9GLIPAV59WXS,Höganäs,Lexikonvägen 1,ICA Kvantum,56.191697,12.565696,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAZC3LPK3D8N4,Høvik Senter,O.H Bangs vei 1,,59.899415,10.581165,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
 B97RYH62GB6YO,Ingelsta - Norrköping,Blygatan 27,"ICA Maxi Norrköping
-Öppet 07:00- 23:00",58.616668,16.162617,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",16
-Jernbanelokket,Jernbanelokket,Teaterveien 1,,58.965407,5.733573,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",29
-B928SP4RSBZEO,Joker Gudvangen,Nærøydalen 11,,60.879479,6.84373,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",20
-Loen,Joker Loen,Lodalsvegen 9,,61.871614,6.848517,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",6
-Mykland,Joker Mykland,Evjeveien 840,,58.632196,8.290956,"['RESTROOM', 'SHOPPING']",3
-Sinnes,Joker Sinnes,Sirdalsveien 7113,,58.907279,6.854391,"['RESTROOM', 'SHOPPING']",10
-B8GQAPRSW9QTC,Joker Viksdalen,Gaularfjellsvegen 1110,,61.349298,6.118605,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAR_TRAILER']",8
-vinje,"Joker Vossestrand, Vinje",Myrkdalsvegen 9,,60.792997,6.509224,"['SHOPPING', 'TRUCK', 'CAR_TRAILER']",6
-B9I2YUTF1K7I8,Jokkmokk,Berggatan 6,ICA Supermarket Jokkmokk,66.60681,19.82911,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAR_TRAILER']",5
-B9K2WH4IE75Z4,Jämjö,Västra Riksvägen 15,ICA Supermarket Jämjö,56.191435,15.8338,[],4
-BA0UDKGCXOKQO,Karensmindevej,Karensmindevej,,55.712499,11.717372,[],8
-BA8D8AV07O0LC,Karlskrona Amiralen lilla,Verkövägen 5,Lidl,56.19769,15.643926,['RESTROOM'],5
-BA8GH0WLUKJ5S,Karlskrona Amiralen stora,Verkövägen 5,,56.195784,15.641493,"['RESTROOM', 'CAFE', 'CAR_TRAILER']",10
-BA0C2LKCNEG3K,Kaufbeuren,Sudetenstraße 8,,47.899127,10.643089,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']",14
-Kilden,Kilden Senter,Gartnerveien 15,,58.948424,5.740253,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",16
-Kinsarvik,Kinsarvik,Kinsarvikvegen 1,Ved Esso stasjonen,60.374234,6.714587,"['RESTROOM', 'CAFE']",5
-Kristiansund KT,"Kirketomta, Kristiansund",Kong Olav V's gate,,63.111784,7.726436,[],16
-B8HWTM2KDFWN4,Kiruna,Österleden 2,ICA Kvantum Kiruna,67.848097,20.254786,"['RESTROOM', 'SHOPPING', 'CAFE']",7
-B8R4GGFH2RVUO,Kista Galleria,Hanstavägen 55 F,Garageplan -2 Fri parkering 2 timmar per dag!,59.402541,17.946706,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",18
-B9Z8YS6NUNTOG,Kiwi Orkanger,Orkdalsveien 100,,63.298638,9.849046,"['RESTROOM', 'RESTAURANT', 'SHOPPING']",8
-B9O4VN7J8ETC0,Kiwi Sorgenfri Allé,Sorgenfri Allé 2,,59.22257,10.99211,['SHOPPING'],6
-B9S0AZM5NA1A8,Kjøpsvik,F. L. Smiths vei,,68.098343,16.376196,"['SHOPPING', 'TRUCK', 'CAR_TRAILER']",8
-Kleppestø,Kleppestø,Holmedalen 6A,,60.406052,5.220696,['SHOPPING'],9
-Knarvik,Knarvik,Kvernhushaugane 1,,60.54695,5.28454,"['RESTROOM', 'SHOPPING', 'CAFE']",10
-Knarvikp,Knarvik Senter,Kvernhushaugane 10,,60.547028,5.285227,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",18
-Kolbotn Torg,Kolbotn Torg,Strandliveien 4,,59.810124,10.797906,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",19
+Öppet 07:00- 23:00",58.616668,16.162617,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Jernbanelokket,Jernbanelokket,Teaterveien 1,,58.965407,5.733573,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B928SP4RSBZEO,Joker Gudvangen,Nærøydalen 11,,60.879479,6.84373,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Loen,Joker Loen,Lodalsvegen 9,,61.871614,6.848517,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Mykland,Joker Mykland,Evjeveien 840,,58.632196,8.290956,"['RESTROOM', 'SHOPPING']"
+Sinnes,Joker Sinnes,Sirdalsveien 7113,,58.907279,6.854391,"['RESTROOM', 'SHOPPING']"
+B8GQAPRSW9QTC,Joker Viksdalen,Gaularfjellsvegen 1110,,61.349298,6.118605,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAR_TRAILER']"
+vinje,"Joker Vossestrand, Vinje",Myrkdalsvegen 9,,60.792997,6.509224,"['SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+B9I2YUTF1K7I8,Jokkmokk,Berggatan 6,ICA Supermarket Jokkmokk,66.60681,19.82911,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAR_TRAILER']"
+B9K2WH4IE75Z4,Jämjö,Västra Riksvägen 15,ICA Supermarket Jämjö,56.191435,15.8338,[]
+BA0UDKGCXOKQO,Karensmindevej,Karensmindevej,,55.712499,11.717372,[]
+BA8D8AV07O0LC,Karlskrona Amiralen lilla,Verkövägen 5,Lidl,56.19769,15.643926,['RESTROOM']
+BA8GH0WLUKJ5S,Karlskrona Amiralen stora,Verkövägen 5,,56.195784,15.641493,"['RESTROOM', 'CAFE', 'CAR_TRAILER']"
+BA0C2LKCNEG3K,Kaufbeuren,Sudetenstraße 8,,47.899127,10.643089,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']"
+Kilden,Kilden Senter,Gartnerveien 15,,58.948424,5.740253,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Kinsarvik,Kinsarvik,Kinsarvikvegen 1,Ved Esso stasjonen,60.374234,6.714587,"['RESTROOM', 'CAFE']"
+Kristiansund KT,"Kirketomta, Kristiansund",Kong Olav V's gate,,63.111784,7.726436,[]
+B8HWTM2KDFWN4,Kiruna,Österleden 2,ICA Kvantum Kiruna,67.848097,20.254786,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8R4GGFH2RVUO,Kista Galleria,Hanstavägen 55 F,Garageplan -2 Fri parkering 2 timmar per dag!,59.402541,17.946706,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+B9Z8YS6NUNTOG,Kiwi Orkanger,Orkdalsveien 100,,63.298638,9.849046,"['RESTROOM', 'RESTAURANT', 'SHOPPING']"
+B9O4VN7J8ETC0,Kiwi Sorgenfri Allé,Sorgenfri Allé 2,,59.22257,10.99211,['SHOPPING']
+B9S0AZM5NA1A8,Kjøpsvik,F. L. Smiths vei,,68.098343,16.376196,"['SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Kleppestø,Kleppestø,Holmedalen 6A,,60.406052,5.220696,['SHOPPING']
+Knarvik,Knarvik,Kvernhushaugane 1,,60.54695,5.28454,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Knarvikp,Knarvik Senter,Kvernhushaugane 10,,60.547028,5.285227,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Kolbotn Torg,Kolbotn Torg,Strandliveien 4,,59.810124,10.797906,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
 BAR3AFGCJX62O,"Kolkaia, Florø",Kolkaia,"- Verdens første lynlader til båt
 - Verdens første lynlader for båt og bil
-- Norges første hurtiglader til båt",61.60042,5.032688,"['RESTAURANT', 'SHOPPING', 'CAFE']",4
-Kristiansund KP,"Kongens Plass, Kristiansund",Kongens Plass 1,,63.110389,7.728688,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",6
-B8OY5OKW807WG,"Kongssenteret, Kongsvinger",Brugata 12,KS1 og KS2 er på framsiden av senteret ved inngangen til Kiwi.,60.192025,11.995373,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",20
-Alti-Koppang,Koppang Senteret,Storgata 99,,61.570031,11.050125,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-BAJGNE6YYXKHS,Kristianstad,Sjöcronas gata 7,,56.025216,14.170731,"['RESTROOM', 'RESTAURANT', 'CAFE']",10
-B9I3LBI268FSW,Kristinehovsgatan - Stockholm,Kristinehovsgatan 93,,59.31753,18.042475,[],6
-BASEK2WQ5Q6F4,Kronen,Vanløse Torv 1,Vær opmærksom på at registrere din parkering jf skiltning på stedet.,55.687733,12.493978,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",10
-Umeå,Kronoparken - Umeå,Kronoskogsvägen 18,McDonalds Kronoparken ,63.840158,20.194534,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",9
-BAB59WHV88EM8,Kuben Senter Hønefoss,Kong Rings gate 1,,60.164753,10.254655,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",16
-Kuben,"Kuben Senter, Bremnes",Hollundsdalen 2,,59.79858,5.210102,"['RESTROOM', 'RESTAURANT', 'SHOPPING']",8
-B84JJTSMKTVCW,Kungens Kurva - Stockholm,Tangentvägen 4,ICA Kvantum Kungens Kurva,59.269931,17.921761,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",20
-B9OTM3OW1UA68,Kungsbacka,Hedebrovägen 50,ICA Maxi Kungsbacka,57.516123,12.076231,[],13
-Favang,"Kvitfjelltunet, Fåvang",Stasjonsvegen 9,,61.453942,10.189424,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",24
-B8WZ6B8OEST1C,Kyrkjebygd,Gardsvegen 9,,58.616418,7.419574,[],5
-B9Y5P9JG63H8G,Kyrkvägen - Lidingö,Kyrkvägen 56,,59.36979,18.154935,[],4
-B84J1NUHXVU9S,Lahtis,Kaunisjoensuu 4,ICA Nära Lahtis,67.313482,23.742483,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",4
-B9VKRRUDE1NNK,Lakselv,Rådhusveien 1,,70.051456,24.956361,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",8
-Laksevåg Senter,Laksevåg Senter,Kringsjåveien 83,,60.389339,5.28645,"['RESTROOM', 'SHOPPING', 'CAFE']",14
-B7V7EH1UNDYPS,Langrønningen Næringspark,Langrønningen 4,,58.971778,9.52177,[],24
-BACF3OXP7KB28,Laxå,Centrumtorget 21,Laxå Centrum Östra Parkering,58.985555,14.620986,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",10
-BAKUTDZYE5HXC,Leikanger,Riverdalen 5,,61.183189,6.852926,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-B8D1UCFPQKJY8,Leinesfjord,Hesteskoen,,67.77662,15.018676,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",7
-Leivik_Sogn,Leirvik i Sogn,Leirvik 67,,61.136711,5.347083,"['RESTROOM', 'SHOPPING', 'CAFE']",5
-BACF3MI5F6KG0,Leksand,Limsjöänget 9,ICA Supermarket Leksand,60.737521,15.003044,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']",5
-B8Z9BSR3E95VK,Lidköping,Floragatan 8,ICA Supermarket Margretelund,58.495435,13.169532,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",11
-Liertoppen,Liertoppen Senter,Drammensveien 201,,59.809434,10.300631,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",16
-Lillesand,Lillesand Senter,Senterveien 30,,58.262653,8.396007,"['RESTAURANT', 'SHOPPING', 'CAFE']",14
-Linderud Senter,Linderud Senter,Erich Mogensøns vei 38,,59.943412,10.836072,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",20
-B8W02RXU4Y9DS,Ljosland Skisenter,Hola på kleiva 2,,58.783232,7.332619,"['RESTROOM', 'RESTAURANT', 'CAFE']",2
-B8D9EX3MVB400,Ljungby,Drottninggatan 34,ICA Maxi Ljungby,56.834097,13.944245,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-Lom,Lom,Nedre Ulstadveg 2,,61.836243,8.567476,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",26
-BAHYIVO3VEFB4,Luleå,Storhedsvägen 14,ICA MAXI Luleå,65.61613,22.04886,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-Lycksele,Lycksele,Hamngatan 11,ICA Supermarket Lycksele,64.594738,18.680311,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-Lyderhorn,Lyderhorn - Beboer,Loddefjordveien 32,Kun for beboere i Lyderhorn Borettslag,60.36707,5.23307,[],16
-Lyderhorn HL,Lyderhorn Hurtigladere,Loddefjordveien 14,,60.364796,5.233941,[],8
+- Norges første hurtiglader til båt",61.60042,5.032688,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+Kristiansund KP,"Kongens Plass, Kristiansund",Kongens Plass 1,,63.110389,7.728688,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8OY5OKW807WG,"Kongssenteret, Kongsvinger",Brugata 12,KS1 og KS2 er på framsiden av senteret ved inngangen til Kiwi.,60.192025,11.995373,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+Alti-Koppang,Koppang Senteret,Storgata 99,,61.570031,11.050125,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAJGNE6YYXKHS,Kristianstad,Sjöcronas gata 7,,56.025216,14.170731,"['RESTROOM', 'RESTAURANT', 'CAFE']"
+B9I3LBI268FSW,Kristinehovsgatan - Stockholm,Kristinehovsgatan 93,,59.31753,18.042475,[]
+BASEK2WQ5Q6F4,Kronen,Vanløse Torv 1,Vær opmærksom på at registrere din parkering jf skiltning på stedet.,55.687733,12.493978,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+Umeå,Kronoparken - Umeå,Kronoskogsvägen 18,McDonalds Kronoparken ,63.840158,20.194534,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAB59WHV88EM8,Kuben Senter Hønefoss,Kong Rings gate 1,,60.164753,10.254655,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+Kuben,"Kuben Senter, Bremnes",Hollundsdalen 2,,59.79858,5.210102,"['RESTROOM', 'RESTAURANT', 'SHOPPING']"
+B84JJTSMKTVCW,Kungens Kurva - Stockholm,Tangentvägen 4,ICA Kvantum Kungens Kurva,59.269931,17.921761,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+B9OTM3OW1UA68,Kungsbacka,Hedebrovägen 50,ICA Maxi Kungsbacka,57.516123,12.076231,[]
+Favang,"Kvitfjelltunet, Fåvang",Stasjonsvegen 9,,61.453942,10.189424,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B8WZ6B8OEST1C,Kyrkjebygd,Gardsvegen 9,,58.616418,7.419574,[]
+B9Y5P9JG63H8G,Kyrkvägen - Lidingö,Kyrkvägen 56,,59.36979,18.154935,[]
+B84J1NUHXVU9S,Lahtis,Kaunisjoensuu 4,ICA Nära Lahtis,67.313482,23.742483,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+B9VKRRUDE1NNK,Lakselv,Rådhusveien 1,,70.051456,24.956361,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Laksevåg Senter,Laksevåg Senter,Kringsjåveien 83,,60.389339,5.28645,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B7V7EH1UNDYPS,Langrønningen Næringspark,Langrønningen 4,,58.971778,9.52177,[]
+BACF3OXP7KB28,Laxå,Centrumtorget 21,Laxå Centrum Östra Parkering,58.985555,14.620986,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAKUTDZYE5HXC,Leikanger,Riverdalen 5,,61.183189,6.852926,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8D1UCFPQKJY8,Leinesfjord,Hesteskoen,,67.77662,15.018676,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Leivik_Sogn,Leirvik i Sogn,Leirvik 67,,61.136711,5.347083,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BACF3MI5F6KG0,Leksand,Limsjöänget 9,ICA Supermarket Leksand,60.737521,15.003044,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']"
+B8Z9BSR3E95VK,Lidköping,Floragatan 8,ICA Supermarket Margretelund,58.495435,13.169532,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Liertoppen,Liertoppen Senter,Drammensveien 201,,59.809434,10.300631,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Lillesand,Lillesand Senter,Senterveien 30,,58.262653,8.396007,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+Linderud Senter,Linderud Senter,Erich Mogensøns vei 38,,59.943412,10.836072,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8W02RXU4Y9DS,Ljosland Skisenter,Hola på kleiva 2,,58.783232,7.332619,"['RESTROOM', 'RESTAURANT', 'CAFE']"
+B8D9EX3MVB400,Ljungby,Drottninggatan 34,ICA Maxi Ljungby,56.834097,13.944245,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Lom,Lom,Nedre Ulstadveg 2,,61.836243,8.567476,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAHYIVO3VEFB4,Luleå,Storhedsvägen 14,ICA MAXI Luleå,65.61613,22.04886,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Lycksele,Lycksele,Hamngatan 11,ICA Supermarket Lycksele,64.594738,18.680311,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Lyderhorn,Lyderhorn - Beboer,Loddefjordveien 32,Kun for beboere i Lyderhorn Borettslag,60.36707,5.23307,[]
+Lyderhorn HL,Lyderhorn Hurtigladere,Loddefjordveien 14,,60.364796,5.233941,[]
 B89VTU70SVG8W,Lyngen Blåisvannet,Lenangsveien,"Parkering:
 5 min gratis 
 Første påbegynte time: kr 50,-
 Deretter per påbegynte time: kr 30,- 
 Makspris per døgn: kr 250,-
 
-Årskort kan kjøpes i EasyPark-appen ved å søke takstkode 88652. Kameraparkering må være aktivert i appen før innkjøring",69.758258,19.955603,"['RESTROOM', 'REST_STOP', 'CAFE']",9
-Lyngseidet,Lyngseidet,Parkveien 15,,69.574613,20.205401,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",8
-BAEP4QGYWBZEO,Lærdal Sykehus,Sjukehusvegen 9,,61.101112,7.520192,"['RESTROOM', 'RESTAURANT', 'CAFE']",6
-Magasinet,Magasinet Drammen,Nedre Storgate 6,,59.742422,10.206182,"['RESTROOM', 'SHOPPING', 'CAFE']",9
-Malung,Malung,Grönlandsvägen 30,ICA Supermarket Malung,60.68302,13.712421,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-Malvik,Malvik Senter,Svebergvegen 3,,63.42062,10.75503,"['RESTROOM', 'SHOPPING', 'CAFE']",14
-BAIRW01XJNKSG,MAN Truck & Bus Bergen,Nordre Brurås 35,"Ladestasjon på utsiden er tilgjengelig for alle hele døgnet.  Ladestasjonen innenfor gjerdet er tilgjengelig på dagtid, eller hele døgnet om man har kode til porten.",60.48299,5.38369,"['TRUCK', 'CAR_TRAILER']",4
-Markedet2,"Markedet, Haugesund",Skåregata 92,Åpningstider p-hus: Man-Fre 07:45-20:00. Lør 10:00-18:00,59.410562,5.273672,"['RESTROOM', 'SHOPPING', 'CAFE']",18
-Maurset,Maurset,Sjonaleitsvegen 2,Ved Maurset Landhandel. Selvbetjent butikk åpen alle dager 07-23.,60.410074,7.324227,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",9
-Maxi Sandnes,Maxi Sandnes,Gravarsveien 7,Lokale parkeringsregler gjelder for biler som lader. Se skilt. ,58.847749,5.738282,"['RESTROOM', 'SHOPPING', 'CAFE']",18
-Dolviken,Meny Dolviken,Dolvikvegen 36,,60.308808,5.270388,"['RESTROOM', 'SHOPPING']",5
-Os,Meny Os,Industrivegen 2,,60.205267,5.449629,"['RESTROOM', 'SHOPPING']",14
-B8CV9678MTJWG,Meråker,Mellomriksvegen 4855,,63.417817,11.73893,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",9
-BAAYLA9GNWJ5S,Moers,Klever Straße 47,,51.45601,6.636872,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-Mora,Mora,Siljanssågsvägen 15,ICA Maxi Stormarknad Mora,61.006894,14.596248,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",15
-B9FBU7A9G58U8,Mullsjö,Skaraborgsgatan 3,ICA Supermarket Mullsjö,57.914677,13.870941,[],8
-BA2SS8HIA5P1C,Munkebäck - Göteborg,Lilla Munkebäcksgatan 2 A,,57.722973,12.024108,[],2
-B9ZJBMFEZDDDS,Mölndal Galleria,Barnhemsgatan 22,P-hus Gallerian Plan 3,57.655238,12.013698,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",20
-B84J2LK3PF5S0,Mölnvik - Värmdö,Afrodites väg 6,ICA Maxi Värmdö,59.31222,18.425962,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-BA04VX635PMO0,Mørkøv Lægehus,Ringstedvej 7A,,55.649696,11.503636,[],6
-NAF Kvamskogen,NAF Kvamskogen,Kvamskogen,,60.378063,5.988505,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-B98SDD8GMTN28,Narvavägen - Stockholm,Narvavägen 4,,59.332876,18.093079,"['RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']",12
-Nesbyen,Nesbyen,Rukkedalsvegen 1,,60.570975,9.111929,"['RESTROOM', 'SHOPPING', 'CAFE']",12
-B8A2NBNJU0ZY8,Nesflaten,Nesflotvegen 10B,,59.64564,6.800865,"['RESTROOM', 'SHOPPING']",8
-BACF3HBVXR8CG,Nora,Storgatan 45,ICA Supermarket Nora,59.513,15.0229,[],5
-B9YNY9DQOS9OG,Nordfjord Sykehus,Sjukehusvegen 14,,61.915963,5.980042,[],13
-Norheimsund,Norheimsund,Grova 8,,60.372826,6.144626,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-BA8GYW8VIBLKW,Norremark - Växjö,Norremarksvägen 3,,56.902647,14.830813,['RESTROOM'],5
-Norrfjarden,Norrfjärden,Porsnästorget 3,ICA Nära Norrfjärden,65.421877,21.496741,"['REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']",7
-B9I3W38U5R56O,Nossebro,Sturegatan 9,ICA Supermarket Nossebro,58.190572,12.717095,[],6
-B8JEZNYNBN1TS,Nyland,Borgargatan 17,ICA Supermarket Rosen,63.006726,17.759784,"['RESTROOM', 'REST_STOP', 'SHOPPING']",5
-B8X3TAHD8QPKW,Næsbjerg Skole,"Troesmosevej 2, Næsbjerg",,55.623512,8.596771,[],4
-Oasen,Oasen Senter,Folke Bernadottes vei 52,Hurtigladere er tilgjengelig hele døgnet. 3 timer gratis parkering. AC-ladere er plassert i P-hus.,60.348691,5.293111,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",42
+Årskort kan kjøpes i EasyPark-appen ved å søke takstkode 88652. Kameraparkering må være aktivert i appen før innkjøring",69.758258,19.955603,"['RESTROOM', 'REST_STOP', 'CAFE']"
+Lyngseidet,Lyngseidet,Parkveien 15,,69.574613,20.205401,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+BAEP4QGYWBZEO,Lærdal Sykehus,Sjukehusvegen 9,,61.101112,7.520192,"['RESTROOM', 'RESTAURANT', 'CAFE']"
+Magasinet,Magasinet Drammen,Nedre Storgate 6,,59.742422,10.206182,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Malung,Malung,Grönlandsvägen 30,ICA Supermarket Malung,60.68302,13.712421,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Malvik,Malvik Senter,Svebergvegen 3,,63.42062,10.75503,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAIRW01XJNKSG,MAN Truck & Bus Bergen,Nordre Brurås 35,"Ladestasjon på utsiden er tilgjengelig for alle hele døgnet.  Ladestasjonen innenfor gjerdet er tilgjengelig på dagtid, eller hele døgnet om man har kode til porten.",60.48299,5.38369,"['TRUCK', 'CAR_TRAILER']"
+Markedet2,"Markedet, Haugesund",Skåregata 92,Åpningstider p-hus: Man-Fre 07:45-20:00. Lør 10:00-18:00,59.410562,5.273672,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Maurset,Maurset,Sjonaleitsvegen 2,Ved Maurset Landhandel. Selvbetjent butikk åpen alle dager 07-23.,60.410074,7.324227,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Maxi Sandnes,Maxi Sandnes,Gravarsveien 7,Lokale parkeringsregler gjelder for biler som lader. Se skilt. ,58.847749,5.738282,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Dolviken,Meny Dolviken,Dolvikvegen 36,,60.308808,5.270388,"['RESTROOM', 'SHOPPING']"
+Os,Meny Os,Industrivegen 2,,60.205267,5.449629,"['RESTROOM', 'SHOPPING']"
+B8CV9678MTJWG,Meråker,Mellomriksvegen 4855,,63.417817,11.73893,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BAAYLA9GNWJ5S,Moers,Klever Straße 47,,51.45601,6.636872,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Mora,Mora,Siljanssågsvägen 15,ICA Maxi Stormarknad Mora,61.006894,14.596248,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9FBU7A9G58U8,Mullsjö,Skaraborgsgatan 3,ICA Supermarket Mullsjö,57.914677,13.870941,[]
+BA2SS8HIA5P1C,Munkebäck - Göteborg,Lilla Munkebäcksgatan 2 A,,57.722973,12.024108,[]
+B9ZJBMFEZDDDS,Mölndal Galleria,Barnhemsgatan 22,P-hus Gallerian Plan 3,57.655238,12.013698,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+B84J2LK3PF5S0,Mölnvik - Värmdö,Afrodites väg 6,ICA Maxi Värmdö,59.31222,18.425962,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA04VX635PMO0,Mørkøv Lægehus,Ringstedvej 7A,,55.649696,11.503636,[]
+NAF Kvamskogen,NAF Kvamskogen,Kvamskogen,,60.378063,5.988505,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B98SDD8GMTN28,Narvavägen - Stockholm,Narvavägen 4,,59.332876,18.093079,"['RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'CAFE']"
+Nesbyen,Nesbyen,Rukkedalsvegen 1,,60.570975,9.111929,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8A2NBNJU0ZY8,Nesflaten,Nesflotvegen 10B,,59.64564,6.800865,"['RESTROOM', 'SHOPPING']"
+BACF3HBVXR8CG,Nora,Storgatan 45,ICA Supermarket Nora,59.513,15.0229,[]
+B9YNY9DQOS9OG,Nordfjord Sykehus,Sjukehusvegen 14,,61.915963,5.980042,[]
+Norheimsund,Norheimsund,Grova 8,,60.372826,6.144626,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BA8GYW8VIBLKW,Norremark - Växjö,Norremarksvägen 3,,56.902647,14.830813,['RESTROOM']
+Norrfjarden,Norrfjärden,Porsnästorget 3,ICA Nära Norrfjärden,65.421877,21.496741,"['REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B9I3W38U5R56O,Nossebro,Sturegatan 9,ICA Supermarket Nossebro,58.190572,12.717095,[]
+B8JEZNYNBN1TS,Nyland,Borgargatan 17,ICA Supermarket Rosen,63.006726,17.759784,"['RESTROOM', 'REST_STOP', 'SHOPPING']"
+B8X3TAHD8QPKW,Næsbjerg Skole,"Troesmosevej 2, Næsbjerg",,55.623512,8.596771,[]
+Oasen,Oasen Senter,Folke Bernadottes vei 52,Hurtigladere er tilgjengelig hele døgnet. 3 timer gratis parkering. AC-ladere er plassert i P-hus.,60.348691,5.293111,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
 Oddensenteret,"Oddensenteret, Grimstad",Odden 1,"
-",58.337482,8.593778,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",24
-B9F804LTC6BK0,Oksbøl,Stationsvænget 2,,55.626112,8.281393,['SHOPPING'],10
-B8RQDKS57OP34,Olofström,Ekhagsvägen 2,ICA Maxi,56.275554,14.543385,"['RESTROOM', 'SHOPPING', 'CAFE']",10
-Olrud,"Olrud Handelspark, Furnes, Hamar",Kårtorpvegen 1,,60.828919,11.066275,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",18
-B9FT5DNAQN5Z4,"Onartun, Onarheim",Onarheimsvegen 317,,59.94828,5.628882,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-Fagerhaug,Oppdalsporten Fagerhaug,Trondheimsvegen 1220,,62.656773,9.881765,"['RESTROOM', 'ACCOMMODATION', 'CAFE']",6
-Oppedal,Oppedal fergekai,Ytre Oppedal,,61.054582,5.509423,"['RESTROOM', 'REST_STOP', 'CAFE']",9
-BAR6U99DLLWCG,Orø Havn,Orø Havn 1,,55.756416,11.801652,['RESTROOM'],2
-BAS9P6FJGZHMO,Oskarshamn,Döderhultsvägen 26,,57.266296,16.433849,"['RESTROOM', 'CAFE']",6
-Vestby,"Oslo Fashion Outlet, Vestby",Vestbyveien 155,AC ladere i P-hus 1. etg,59.623221,10.741799,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']",45
-Ostereidet,Ostereidet Senter,Eidavegen 532,,60.625771,5.473822,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE']",10
-BAACCP0XLY6TC,Osterholz-Scharmbeck,Am Pumpelberg 5-6,"Hinweis: Wenn Sie von der Hauptstraße aus kommen, ist die erste Auffahrt zum Parkplatz sonntags geschlossen. Fahren Sie die Straße bis ganz ans Ende, dort ist die zweite (geöffnete) Einfahrt zum Parkplatz.",53.232576,8.777363,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",6
-B8ZCXJZIVZ2TC,Parken Åfjord,Joakim Brevolds Allé 4,,63.960751,10.226787,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-B8OP6PE43D5HC,Plug - Båter i sjøen,,Lading for elbåter på Båter i sjøen,59.9079,10.726445,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",4
-B8ONQ2ESK2VI8,Plug - Flekkerøy,Østerøya 41B,Lading av båt og bil.,58.08072,7.99792,['REST_STOP'],5
-B9VNYAJTHL1J4,"Plug - Fyrskeppet, Stockholm","Biskopsvägen, Fyrskeppet",To exit the gate use the button on the right side of the gate. To get in use the code #2355.,59.321733,18.127964,"['RESTROOM', 'RESTAURANT', 'CAFE']",2
+",58.337482,8.593778,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B9F804LTC6BK0,Oksbøl,Stationsvænget 2,,55.626112,8.281393,['SHOPPING']
+B8RQDKS57OP34,Olofström,Ekhagsvägen 2,ICA Maxi,56.275554,14.543385,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Olrud,"Olrud Handelspark, Furnes, Hamar",Kårtorpvegen 1,,60.828919,11.066275,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9FT5DNAQN5Z4,"Onartun, Onarheim",Onarheimsvegen 317,,59.94828,5.628882,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Fagerhaug,Oppdalsporten Fagerhaug,Trondheimsvegen 1220,,62.656773,9.881765,"['RESTROOM', 'ACCOMMODATION', 'CAFE']"
+Oppedal,Oppedal fergekai,Ytre Oppedal,,61.054582,5.509423,"['RESTROOM', 'REST_STOP', 'CAFE']"
+BAR6U99DLLWCG,Orø Havn,Orø Havn 1,,55.756416,11.801652,['RESTROOM']
+BAS9P6FJGZHMO,Oskarshamn,Döderhultsvägen 26,,57.266296,16.433849,"['RESTROOM', 'CAFE']"
+Vestby,"Oslo Fashion Outlet, Vestby",Vestbyveien 155,AC ladere i P-hus 1. etg,59.623221,10.741799,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE']"
+Ostereidet,Ostereidet Senter,Eidavegen 532,,60.625771,5.473822,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE']"
+BAACCP0XLY6TC,Osterholz-Scharmbeck,Am Pumpelberg 5-6,"Hinweis: Wenn Sie von der Hauptstraße aus kommen, ist die erste Auffahrt zum Parkplatz sonntags geschlossen. Fahren Sie die Straße bis ganz ans Ende, dort ist die zweite (geöffnete) Einfahrt zum Parkplatz.",53.232576,8.777363,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8ZCXJZIVZ2TC,Parken Åfjord,Joakim Brevolds Allé 4,,63.960751,10.226787,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8OP6PE43D5HC,Plug - Båter i sjøen,,Lading for elbåter på Båter i sjøen,59.9079,10.726445,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+B8ONQ2ESK2VI8,Plug - Flekkerøy,Østerøya 41B,Lading av båt og bil.,58.08072,7.99792,['REST_STOP']
+B9VNYAJTHL1J4,"Plug - Fyrskeppet, Stockholm","Biskopsvägen, Fyrskeppet",To exit the gate use the button on the right side of the gate. To get in use the code #2355.,59.321733,18.127964,"['RESTROOM', 'RESTAURANT', 'CAFE']"
 BAKGA3PA60MIO,Plug - Holbergkaien1,Holbergskaien 12,"Lading av bil og båt
 
-Charging for cars and boats",60.396656,5.316411,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",8
-B8M3KKGFTIDXC,Plug - Hyke ,,Charging for Hyke Shuttle 0001,59.199029,10.946816,[],2
-B9DXBYN81TUDC,"Plug - Leirvik Havn, Stord","Hamnegata 14, 5400 STORD,",,59.778472,5.501202,"['RESTROOM', 'TRUCK', 'CAFE']",14
+Charging for cars and boats",60.396656,5.316411,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B8M3KKGFTIDXC,Plug - Hyke ,,Charging for Hyke Shuttle 0001,59.199029,10.946816,[]
+B9DXBYN81TUDC,"Plug - Leirvik Havn, Stord","Hamnegata 14, 5400 STORD,",,59.778472,5.501202,"['RESTROOM', 'TRUCK', 'CAFE']"
 B8MUSRXJEFNR4,Plug - Ramberg ,,"Lading fartøy og kjøretøy
-Landstrøm fartøy",68.08913,13.221177,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'WIFI', 'CAFE']",12
+Landstrøm fartøy",68.08913,13.221177,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'WIFI', 'CAFE']"
 Demo stolper,Plug - Skolten DEMO ,,"Plugs demoladere til bruk på festivaler og arrangement
 Type 2 mode 3
-CCS 2 mode 4",60.40147,5.31145,"['RESTROOM', 'CAFE']",2
-B8JEH7V45X2IO,Plug - Storebø Brygge Gjestehavn,Prestaneset 60,,60.09527,5.2171,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'BAR', 'CAFE']",10
-B9P5AQ2BQRZ0G,PostNord Alta,Blåskjellveien 11,,69.97973,23.3352,[],2
-B99S2AMNLWH6O,PostNord Tana Bru,Deatnodearbmi 24,Lading for PostNord Tana.,70.20287,28.18276,['TRUCK'],6
-B8JB0CJHNELMO,Privat - Brim Explorer,Aker Brygge,Ladere kun for MS Brisen,59.910456,10.733017,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'BAR', 'WIFI', 'CAFE']",2
-B9CG9OLP2ZLZ4,Raglamyrsenteret, Longhammarvegen 6,,59.395971,5.32449,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",7
-Ramsele,Ramsele,Storgatan 7,ICA Nära Ramsele,63.539118,16.469609,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']",6
+CCS 2 mode 4",60.40147,5.31145,"['RESTROOM', 'CAFE']"
+B8JEH7V45X2IO,Plug - Storebø Brygge Gjestehavn,Prestaneset 60,,60.09527,5.2171,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'BAR', 'CAFE']"
+B9P5AQ2BQRZ0G,PostNord Alta,Blåskjellveien 11,,69.97973,23.3352,[]
+B99S2AMNLWH6O,PostNord Tana Bru,Deatnodearbmi 24,Lading for PostNord Tana.,70.20287,28.18276,['TRUCK']
+B8JB0CJHNELMO,Privat - Brim Explorer,Aker Brygge,Ladere kun for MS Brisen,59.910456,10.733017,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'BAR', 'WIFI', 'CAFE']"
+B9CG9OLP2ZLZ4,Raglamyrsenteret, Longhammarvegen 6,,59.395971,5.32449,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+Ramsele,Ramsele,Storgatan 7,ICA Nära Ramsele,63.539118,16.469609,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']"
 B8Z945M7MCMPS,Reine,Reineveien 111,"Åpningstider og priser
 Døgnåpen parkeringsplass. Kun for personbil og MC, ingen bobiler. 24hour parking for cars and motorcycle only. No mobile homes.
 
@@ -334,185 +334,185 @@ Alle dager
 5 min gratis 
 
 Kr. 20,- per påbegynte halvtime
-Makspris kr. 500,- per dag",67.93493,13.08915,"['RESTROOM', 'RESTAURANT', 'CAFE']",9
-Andenes,Rema 1000 Andenes,Industriveien 7,,69.309861,16.100473,"['RESTROOM', 'SHOPPING', 'TRUCK']",7
-Averøy,Rema 1000 Averøy,Næringsveien 22,Røsand Industriområde,63.068046,7.64769,"['RESTROOM', 'SHOPPING']",9
-Brandbu,Rema 1000 Brandbu,Storlinna 125,,60.407108,10.533115,"['RESTROOM', 'SHOPPING']",8
-Digernes,Rema 1000 Digernes,Digerneset Næringspark,,62.491935,6.605186,"['RESTROOM', 'SHOPPING']",15
-Dokka,Rema 1000 Dokka,Storgata 52,,60.836934,10.069969,"['RESTROOM', 'SHOPPING']",6
-Elnesvågen,Rema 1000 Elnesvågen,Torget 17,,62.854265,7.165375,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-Elverum,Rema 1000 Elverum,Søbakkvegen 115,,60.895925,11.582988,['SHOPPING'],6
-Florø,"Rema 1000 Evja, Florø",Seljetun 3,,61.598975,5.047653,"['RESTROOM', 'SHOPPING']",8
-Fitjar,Rema 1000 Fitjar,Fitjarsjøen 73,,59.919904,5.326249,['SHOPPING'],6
-Fjøsanger,Rema 1000 Fjøsanger,Straumeveien 3,,60.34766,5.335595,"['RESTROOM', 'SHOPPING', 'TRUCK']",15
-Flisnes,Rema 1000 Flisnes,Langrabben 12,,62.43239,6.41347,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-Førde Rema,Rema 1000 Førde,Hafstadreina 4,,61.449463,5.872153,['SHOPPING'],9
-Giske,Rema 1000 Giske,Valderøyvegen 1166,,62.529111,6.116402,"['RESTROOM', 'SHOPPING']",9
-Gol,Rema 1000 Gol,Sentrumsvegen 35,,60.701757,8.962077,"['RESTROOM', 'SHOPPING']",17
-Heistad,Rema 1000 Heistad,Pans veg 2,,59.075908,9.683344,"['RESTROOM', 'SHOPPING']",7
-Holmestrand,Rema 1000 Holmestrand,Våleveien 1,,59.474957,10.317436,"['RESTROOM', 'SHOPPING']",13
-B8F1DC4QC2328,Rema 1000 Hunndalen,Cellulosevegen 2  ,,60.783912,10.645474,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",13
-Husnes,Rema 1000 Husnes,Opsangervegen 4,,59.862958,5.75862,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",7
-BA0UAJ2Y1LZI8,Rema 1000 Hønengata,Hønengata 18A,Parkeringsplassen til Rema 1000 Hønengata,60.172857,10.261624,['SHOPPING'],11
-Juvik,Rema 1000 Juvikflaten,Juvikflaten 2,,60.427938,5.193166,['SHOPPING'],11
-Kuven,Rema 1000 Kuven Stasjon,Byvegen 85,,60.192921,5.464906,"['RESTROOM', 'SHOPPING']",6
-Lampeland,Rema 1000 Lampeland,Lyngdalsveien 2,,59.835106,9.579756,"['RESTROOM', 'SHOPPING']",17
-Leira,Rema 1000 Leira,Skulevegen 7,,60.970911,9.291382,"['RESTROOM', 'SHOPPING']",7
-Leirvik,"Rema 1000 Leirvik, Stord",Vabakkjen 4,,59.77427,5.48579,"['RESTROOM', 'SHOPPING']",10
-Leknes,Rema 1000 Leknes,Idrettsgata 61,,68.145108,13.620555,"['RESTROOM', 'SHOPPING']",9
-Manger,Rema 1000 Manger,Radøyvegen 1675,,60.641092,5.043351,"['RESTROOM', 'SHOPPING']",6
-Palmafossen,"Rema 1000 Palmafossen, Voss",Tjukkebygdsvegen 7,,60.635992,6.466805,"['RESTROOM', 'SHOPPING']",9
-Straume,Rema 1000 Sartorparken,Gjertrudvegen 4,,60.358624,5.12215,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",10
-Seljord,Rema 1000 Seljord,Steinsrudvegen 2,,59.480499,8.631242,"['RESTROOM', 'SHOPPING']",6
-B8I047Z49DQF4,Rema 1000 Skreia,Jerikovegen 5,,60.654149,10.934242,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",6
-Sortland,Rema 1000 Sortland,Vesterålsgata 24,,68.707784,15.41346,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",8
-Stavern,Rema 1000 Stavern,Holmejordetveien 31,,59.016249,10.020309,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",10
-Nordfjordeid,"Rema 1000 Stokkenes, Nordfjordeid",Uldegrova 2,,61.909807,6.00345,"['RESTROOM', 'SHOPPING']",5
-Svarstad,Rema 1000 Svarstad,Lågaveien 14,,59.401481,9.95717,"['RESTROOM', 'SHOPPING']",7
-Soreide,Rema 1000 Søreide,Dolvikbakken 4,,60.306009,5.26914,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",11
-Odda_Sorfjord,"Rema 1000 Sørfjordsenteret, Odda",Eitrheimsvegen 32,,60.070644,6.541641,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-Tjøme,Rema 1000 Tjøme,Haugsveien 5,,59.12115,10.400164,"['RESTROOM', 'SHOPPING']",6
-Ulsteinvik,Rema 1000 Ulsteinvik,Glopen 1,,62.337639,5.852933,"['RESTROOM', 'SHOPPING']",8
-Åndalsnes Rema,Rema 1000 Åndalsnes,Øran Vest,,62.559307,7.681561,"['RESTROOM', 'SHOPPING']",8
-Ørsta,Rema 1000 Ørsta,Melsvegen 1,,62.192799,6.124499,"['RESTROOM', 'SHOPPING']",9
-Osteroyveien,Rema 1000 Østerøyveien,Østerøyveien 2,,59.133879,10.250712,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",10
-Risøyhamn,Risøyhamn,Risøyhamn ,,68.974689,15.642796,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",5
-B7ZZ5E8EETQ80,Rjukan,Månaveien 11,,59.878995,8.597451,"['RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",12
-Roknas,Roknäs,G:a Sjulsnäsvägen 57,ICA Nära Sigvards,65.339499,21.229577,"['RESTROOM', 'SHOPPING', 'CAFE']",5
-Romarheim,Romarheim,Romarheim kryss E39,,60.73982,5.633132,"['BAR', 'CAR_TRAILER']",2
-B8D9EBULBUTJ4,Ronneby,Karlshamnsvägen 8,ICA Maxi Ronneby,56.21418,15.27219,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-Rortunet,Rortunet Senter,Kirkealleen 1 ,"Lynladere er plassert innendørs i P-hus 1. etasje. AC-ladere i 1., 3. og 4. etasje.",59.777098,10.48482,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",32
-Rudshogda,Rudshøgda,Rudsvegen 5,Ved Frich's Motell og Spiseri,60.911923,10.813193,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'CAFE', 'CAR_TRAILER']",24
-Rykinn,Rykkinn Senter,Munins vei 1,AC ladere i innendørs P-hus,59.924486,10.486942,"['RESTROOM', 'SHOPPING', 'CAFE']",19
-Rysstad,Rysstad,Stovegen,,59.095878,7.53187,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'CAFE']",9
+Makspris kr. 500,- per dag",67.93493,13.08915,"['RESTROOM', 'RESTAURANT', 'CAFE']"
+Andenes,Rema 1000 Andenes,Industriveien 7,,69.309861,16.100473,"['RESTROOM', 'SHOPPING', 'TRUCK']"
+Averøy,Rema 1000 Averøy,Næringsveien 22,Røsand Industriområde,63.068046,7.64769,"['RESTROOM', 'SHOPPING']"
+Brandbu,Rema 1000 Brandbu,Storlinna 125,,60.407108,10.533115,"['RESTROOM', 'SHOPPING']"
+Digernes,Rema 1000 Digernes,Digerneset Næringspark,,62.491935,6.605186,"['RESTROOM', 'SHOPPING']"
+Dokka,Rema 1000 Dokka,Storgata 52,,60.836934,10.069969,"['RESTROOM', 'SHOPPING']"
+Elnesvågen,Rema 1000 Elnesvågen,Torget 17,,62.854265,7.165375,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Elverum,Rema 1000 Elverum,Søbakkvegen 115,,60.895925,11.582988,['SHOPPING']
+Florø,"Rema 1000 Evja, Florø",Seljetun 3,,61.598975,5.047653,"['RESTROOM', 'SHOPPING']"
+Fitjar,Rema 1000 Fitjar,Fitjarsjøen 73,,59.919904,5.326249,['SHOPPING']
+Fjøsanger,Rema 1000 Fjøsanger,Straumeveien 3,,60.34766,5.335595,"['RESTROOM', 'SHOPPING', 'TRUCK']"
+Flisnes,Rema 1000 Flisnes,Langrabben 12,,62.43239,6.41347,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Førde Rema,Rema 1000 Førde,Hafstadreina 4,,61.449463,5.872153,['SHOPPING']
+Giske,Rema 1000 Giske,Valderøyvegen 1166,,62.529111,6.116402,"['RESTROOM', 'SHOPPING']"
+Gol,Rema 1000 Gol,Sentrumsvegen 35,,60.701757,8.962077,"['RESTROOM', 'SHOPPING']"
+Heistad,Rema 1000 Heistad,Pans veg 2,,59.075908,9.683344,"['RESTROOM', 'SHOPPING']"
+Holmestrand,Rema 1000 Holmestrand,Våleveien 1,,59.474957,10.317436,"['RESTROOM', 'SHOPPING']"
+B8F1DC4QC2328,Rema 1000 Hunndalen,Cellulosevegen 2  ,,60.783912,10.645474,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Husnes,Rema 1000 Husnes,Opsangervegen 4,,59.862958,5.75862,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+BA0UAJ2Y1LZI8,Rema 1000 Hønengata,Hønengata 18A,Parkeringsplassen til Rema 1000 Hønengata,60.172857,10.261624,['SHOPPING']
+Juvik,Rema 1000 Juvikflaten,Juvikflaten 2,,60.427938,5.193166,['SHOPPING']
+Kuven,Rema 1000 Kuven Stasjon,Byvegen 85,,60.192921,5.464906,"['RESTROOM', 'SHOPPING']"
+Lampeland,Rema 1000 Lampeland,Lyngdalsveien 2,,59.835106,9.579756,"['RESTROOM', 'SHOPPING']"
+Leira,Rema 1000 Leira,Skulevegen 7,,60.970911,9.291382,"['RESTROOM', 'SHOPPING']"
+Leirvik,"Rema 1000 Leirvik, Stord",Vabakkjen 4,,59.77427,5.48579,"['RESTROOM', 'SHOPPING']"
+Leknes,Rema 1000 Leknes,Idrettsgata 61,,68.145108,13.620555,"['RESTROOM', 'SHOPPING']"
+Manger,Rema 1000 Manger,Radøyvegen 1675,,60.641092,5.043351,"['RESTROOM', 'SHOPPING']"
+Palmafossen,"Rema 1000 Palmafossen, Voss",Tjukkebygdsvegen 7,,60.635992,6.466805,"['RESTROOM', 'SHOPPING']"
+Straume,Rema 1000 Sartorparken,Gjertrudvegen 4,,60.358624,5.12215,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Seljord,Rema 1000 Seljord,Steinsrudvegen 2,,59.480499,8.631242,"['RESTROOM', 'SHOPPING']"
+B8I047Z49DQF4,Rema 1000 Skreia,Jerikovegen 5,,60.654149,10.934242,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Sortland,Rema 1000 Sortland,Vesterålsgata 24,,68.707784,15.41346,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Stavern,Rema 1000 Stavern,Holmejordetveien 31,,59.016249,10.020309,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Nordfjordeid,"Rema 1000 Stokkenes, Nordfjordeid",Uldegrova 2,,61.909807,6.00345,"['RESTROOM', 'SHOPPING']"
+Svarstad,Rema 1000 Svarstad,Lågaveien 14,,59.401481,9.95717,"['RESTROOM', 'SHOPPING']"
+Soreide,Rema 1000 Søreide,Dolvikbakken 4,,60.306009,5.26914,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Odda_Sorfjord,"Rema 1000 Sørfjordsenteret, Odda",Eitrheimsvegen 32,,60.070644,6.541641,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Tjøme,Rema 1000 Tjøme,Haugsveien 5,,59.12115,10.400164,"['RESTROOM', 'SHOPPING']"
+Ulsteinvik,Rema 1000 Ulsteinvik,Glopen 1,,62.337639,5.852933,"['RESTROOM', 'SHOPPING']"
+Åndalsnes Rema,Rema 1000 Åndalsnes,Øran Vest,,62.559307,7.681561,"['RESTROOM', 'SHOPPING']"
+Ørsta,Rema 1000 Ørsta,Melsvegen 1,,62.192799,6.124499,"['RESTROOM', 'SHOPPING']"
+Osteroyveien,Rema 1000 Østerøyveien,Østerøyveien 2,,59.133879,10.250712,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Risøyhamn,Risøyhamn,Risøyhamn ,,68.974689,15.642796,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+B7ZZ5E8EETQ80,Rjukan,Månaveien 11,,59.878995,8.597451,"['RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Roknas,Roknäs,G:a Sjulsnäsvägen 57,ICA Nära Sigvards,65.339499,21.229577,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Romarheim,Romarheim,Romarheim kryss E39,,60.73982,5.633132,"['BAR', 'CAR_TRAILER']"
+B8D9EBULBUTJ4,Ronneby,Karlshamnsvägen 8,ICA Maxi Ronneby,56.21418,15.27219,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Rortunet,Rortunet Senter,Kirkealleen 1 ,"Lynladere er plassert innendørs i P-hus 1. etasje. AC-ladere i 1., 3. og 4. etasje.",59.777098,10.48482,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Rudshogda,Rudshøgda,Rudsvegen 5,Ved Frich's Motell og Spiseri,60.911923,10.813193,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'CAFE', 'CAR_TRAILER']"
+Rykinn,Rykkinn Senter,Munins vei 1,AC ladere i innendørs P-hus,59.924486,10.486942,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Rysstad,Rysstad,Stovegen,,59.095878,7.53187,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'CAFE']"
 BAV5SGI5AZKE8,Sala,Berggatan 13,"ICA Kvantum Åkrahallen
-",59.922499,16.585968,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE']",3
-Sandane,Sandane,Krånavegen 5,,61.778031,6.213294,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE']",6
-Sauda2,Sauda,Kyrkjegata 10,,59.651068,6.352346,"['RESTAURANT', 'SHOPPING']",12
-B9BXU5OHTQRR4,Shell Bygland,Sentrum 2,,58.831158,7.794987,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAFE']",9
-BAAXEIKVIFGN4,Simhallen - Lidingö,Brostugevägen 4,,59.345191,18.152754,[],4
-B8Q8HU3KA4F7K,Simrishamn,Kristianstadsvägen 4,ICA Supermarket Simrishamn,55.557697,14.346142,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-BAOIX742A4Q9S,Sirdal Handleriet,Sirdalsveien 7452,,58.920539,6.894394,[],6
-Sistranda,Sistranda,Sørveien 17B,Kysthaven Parkering,63.728632,8.828714,"['RESTROOM', 'SHOPPING', 'CAFE']",9
-BAQW4PYXHVXFK,Sjöbo,Solviksgatan 4,,55.634934,13.67932,['RESTROOM'],7
-B9JZJPQMDM6M8,Sjøsiden Horten,Teatergata 6,,59.414321,10.486641,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",8
-Sjosiden,"Sjøsiden Senter, Mosjøen",Smågan 2,Ladere er plassert innendørs i P-hus,65.83997,13.19277,[],5
-B8I00VZRW7U2O,Skanör,Södergatan 12,ICA Supermarket,55.412065,12.843359,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",5
-Skedsmo,Skedsmo Senter,Furuholtet 1,Hurtigladestasjon utendørs på venstre side av nedkjøring til P-hus. Normalladere utendørs ved inngangen på baksiden av senteret og innendørs i P-hus.,60.000913,11.038892,"['RESTROOM', 'SHOPPING', 'CAFE']",28
-B8TLXUKC8AHOG,Skellefteå,Kronbodgatan 4,ICA Kvantum Skellefteå,64.75575,20.91826,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",5
-BA8KBJ3PWI29S,Skene,Klevagårdsgatan 3,"ICA Kvantum MM, Skene",57.496972,12.670356,"['RESTROOM', 'CAR_TRAILER']",10
-B95EAK6UJ3D34,Skiftinge - Eskilstuna,Karl Hovbergsgatan 32,ICA Maxi Eskilstuna,59.388737,16.532159,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",17
-Skjold_Brl,Skjold Borettslag,Mårdalen 5,Ladestasjonen er tilgjengelig for alle,60.30719,5.341805,[],18
-B8V5CGVVK0SG0,Skogvatnet E10 ,E10 1358,,68.490297,17.97914,"['REST_STOP', 'TRUCK', 'CAR_TRAILER']",6
-B8R51SF509JPC,Skrea Strand - Falkenberg,Ljungholmsvägen 20,ICA Supermarket Skrea Strand,56.886774,12.510782,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",7
-B8X3RPXB8RGG0,Skt. Jacobi Skole,Pramstedvej 10C,,55.618484,8.472861,[],4
-B8D9D2350PCLC,Skurup,Korrehusgatan 1,ICA Supermarket Skurup,55.490017,13.486919,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-B8I034HWFNSOW,Snertingdal,Snertingdalsvegen 1722,,60.880489,10.387325,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",6
-Sogndal,Sogndal Sjøkanten,Stedjevegen 38,,61.226518,7.101853,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",22
-Sollefteå,Sollefteå,Hågesta 227,ICA Kvantum Sollefteå,63.161804,17.288747,"['RESTROOM', 'SHOPPING', 'CAFE']",11
-Solsiden,Solsiden Senter,Beddingen 10,Ladere i underetasje av p-hus. Innkjøring fra Trenerys gate.,63.43529,10.414552,"['RESTROOM', 'SHOPPING', 'CAFE']",11
-BAIZ7U5Y321OG,Sonthofen,Rudolf-Diesel-Straße 7,,47.522001,10.270054,"['SHOPPING', 'CAR_TRAILER']",8
-B8KPHVBVZ3OXS,Spar Fyresdal, Folkestadgata 3,,59.185083,8.090541,[],5
-Haukeli,Spar Haukeli,Storegutvegen 250,,59.737259,7.565509,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",13
-Jondal,Spar Jondal,Belsnesvegen 5,,60.275577,6.252919,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING']",9
-Jølstraholmen,Spar Jølstraholmen,Jølstravegen 705,,61.4881,6.08122,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",13
-Mongstad,Spar Mongstad,Mongstadvegen 1020,,60.797527,5.010914,"['RESTROOM', 'SHOPPING']",9
-BAB589T1YKV0G,Spar Norheimsund,Grova 1,,60.372209,6.142258,"['RESTROOM', 'SHOPPING']",8
-B7YPA72JR5HQ8,Spar Rauland,Juvlandsveien 2,,59.695982,8.066953,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']",10
-Rosendal,Spar Rosendal,Skålagato 36,,59.986013,6.009139,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",9
-B963PZV0MR9Q8,Stenby - Eskilstuna,Stenbygatan 2,ICA Supermarket,59.356781,16.476224,"['RESTROOM', 'SHOPPING', 'CAFE']",5
-BA5OKUWUGA1VK,Stenhagen - Uppsala,Fyrisparksvägen 1,ICA MAXI Stenhagen,59.850044,17.55981,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
+",59.922499,16.585968,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE']"
+Sandane,Sandane,Krånavegen 5,,61.778031,6.213294,"['RESTROOM', 'SHOPPING', 'WIFI', 'CAFE']"
+Sauda2,Sauda,Kyrkjegata 10,,59.651068,6.352346,"['RESTAURANT', 'SHOPPING']"
+B9BXU5OHTQRR4,Shell Bygland,Sentrum 2,,58.831158,7.794987,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAFE']"
+BAAXEIKVIFGN4,Simhallen - Lidingö,Brostugevägen 4,,59.345191,18.152754,[]
+B8Q8HU3KA4F7K,Simrishamn,Kristianstadsvägen 4,ICA Supermarket Simrishamn,55.557697,14.346142,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAOIX742A4Q9S,Sirdal Handleriet,Sirdalsveien 7452,,58.920539,6.894394,[]
+Sistranda,Sistranda,Sørveien 17B,Kysthaven Parkering,63.728632,8.828714,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAQW4PYXHVXFK,Sjöbo,Solviksgatan 4,,55.634934,13.67932,['RESTROOM']
+B9JZJPQMDM6M8,Sjøsiden Horten,Teatergata 6,,59.414321,10.486641,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+Sjosiden,"Sjøsiden Senter, Mosjøen",Smågan 2,Ladere er plassert innendørs i P-hus,65.83997,13.19277,[]
+B8I00VZRW7U2O,Skanör,Södergatan 12,ICA Supermarket,55.412065,12.843359,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Skedsmo,Skedsmo Senter,Furuholtet 1,Hurtigladestasjon utendørs på venstre side av nedkjøring til P-hus. Normalladere utendørs ved inngangen på baksiden av senteret og innendørs i P-hus.,60.000913,11.038892,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8TLXUKC8AHOG,Skellefteå,Kronbodgatan 4,ICA Kvantum Skellefteå,64.75575,20.91826,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+BA8KBJ3PWI29S,Skene,Klevagårdsgatan 3,"ICA Kvantum MM, Skene",57.496972,12.670356,"['RESTROOM', 'CAR_TRAILER']"
+B95EAK6UJ3D34,Skiftinge - Eskilstuna,Karl Hovbergsgatan 32,ICA Maxi Eskilstuna,59.388737,16.532159,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Skjold_Brl,Skjold Borettslag,Mårdalen 5,Ladestasjonen er tilgjengelig for alle,60.30719,5.341805,[]
+B8V5CGVVK0SG0,Skogvatnet E10 ,E10 1358,,68.490297,17.97914,"['REST_STOP', 'TRUCK', 'CAR_TRAILER']"
+B8R51SF509JPC,Skrea Strand - Falkenberg,Ljungholmsvägen 20,ICA Supermarket Skrea Strand,56.886774,12.510782,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B8X3RPXB8RGG0,Skt. Jacobi Skole,Pramstedvej 10C,,55.618484,8.472861,[]
+B8D9D2350PCLC,Skurup,Korrehusgatan 1,ICA Supermarket Skurup,55.490017,13.486919,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B8I034HWFNSOW,Snertingdal,Snertingdalsvegen 1722,,60.880489,10.387325,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Sogndal,Sogndal Sjøkanten,Stedjevegen 38,,61.226518,7.101853,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Sollefteå,Sollefteå,Hågesta 227,ICA Kvantum Sollefteå,63.161804,17.288747,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Solsiden,Solsiden Senter,Beddingen 10,Ladere i underetasje av p-hus. Innkjøring fra Trenerys gate.,63.43529,10.414552,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAIZ7U5Y321OG,Sonthofen,Rudolf-Diesel-Straße 7,,47.522001,10.270054,"['SHOPPING', 'CAR_TRAILER']"
+B8KPHVBVZ3OXS,Spar Fyresdal, Folkestadgata 3,,59.185083,8.090541,[]
+Haukeli,Spar Haukeli,Storegutvegen 250,,59.737259,7.565509,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Jondal,Spar Jondal,Belsnesvegen 5,,60.275577,6.252919,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING']"
+Jølstraholmen,Spar Jølstraholmen,Jølstravegen 705,,61.4881,6.08122,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Mongstad,Spar Mongstad,Mongstadvegen 1020,,60.797527,5.010914,"['RESTROOM', 'SHOPPING']"
+BAB589T1YKV0G,Spar Norheimsund,Grova 1,,60.372209,6.142258,"['RESTROOM', 'SHOPPING']"
+B7YPA72JR5HQ8,Spar Rauland,Juvlandsveien 2,,59.695982,8.066953,"['RESTROOM', 'SHOPPING', 'TRUCK', 'CAR_TRAILER']"
+Rosendal,Spar Rosendal,Skålagato 36,,59.986013,6.009139,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B963PZV0MR9Q8,Stenby - Eskilstuna,Stenbygatan 2,ICA Supermarket,59.356781,16.476224,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BA5OKUWUGA1VK,Stenhagen - Uppsala,Fyrisparksvägen 1,ICA MAXI Stenhagen,59.850044,17.55981,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
 BAD3Z6CJVS4CG,Stenungstorg,Östra Köpmansgatan 6,"Norra parkeringsytan
-Vissa laddare ur funktion på grund av skadegörelse. Vi uppskattar de som hört av sig till vår kundtjänst. ",58.06942,11.818591,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE', 'CAR_TRAILER']",36
-Stokmarknes,Stokmarknes,Havnegata,Parkeringsplass ved Elkjøp.,68.565804,14.914888,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",10
-Stopp Senter,"Stopp Tune Senter, Sarpsborg",Lilletuneveien 2,,59.287192,11.086506,"['RESTROOM', 'SHOPPING', 'CAFE']",15
-Storbyen,"Storbyen Senter, Sarpsborg",Roald Amundsens gate 36,"Hurtigladere plassert i p-hus, åpent 09-20. Normalladere (SB5-SB11) er døgnåpne og plassert i nedre parkeringshus.",59.282784,11.107131,"['RESTROOM', 'SHOPPING', 'CAFE']",16
-B8P21QIH5PO8W,Storhaug,Saudagata 47,,58.967757,5.743037,[],13
-Stortorvet,"Stortorvet Senter, Kongsberg",Karsches gate 3,Ladere plassert ved Esso. Innkjøring fra Stasjonsbakken,59.668261,9.652725,"['RESTROOM', 'SHOPPING', 'CAFE']",22
-Stovner,Stovner Senter,Stovner Senter 3,Hurtigladere P-hus Plan 1. AC-ladere Plan 3 er nå tilgjengelig for alle. ,59.960243,10.925184,"['RESTROOM', 'SHOPPING', 'CAFE']",35
-Stranda,Stranda,Øyna 10,,62.307454,6.945529,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",8
-Strandtorget,"Strandtorget Senter, Lillehammer",Strandpromenaden 85,,61.114455,10.447287,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",20
-B9FBTLFIMY8ZK,Studentbacken - Stockholm,Studentbacken,,59.348486,18.095508,[],6
-Suldal,Suldalsosen,Suldalsvegen 1621,,59.491475,6.51481,[],6
-BAAYKM48RWF7K,Sulingen P&R,Am Bahnhof,,52.686157,8.813105,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",8
-Svelgen,Svelgen,Gunnar Scheldrups veg 11,Ladestasjon ved Bakarhuset.,61.768414,5.292107,"['ACCOMMODATION', 'SHOPPING', 'CAFE']",7
-Svinesundparken,Svinesundparken,Svinesundparken 1,,59.129498,11.274019,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']",9
-B98DU8F3UFQWW,Sälen,Postvägen 2,ICA Nära Sälen,61.157613,13.264919,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",6
-B8I00X35T2W3K,Sölvesborg,Järnvägsgatan 5,ICA Supermarket,56.049016,14.581906,"['RESTROOM', 'SHOPPING', 'CAFE']",5
-BATREE28WZ7CW,Söråker,Folketshusvägen,ICA Nära Söråker,62.50602,17.50785,"['RESTROOM', 'SHOPPING', 'WIFI']",5
-Tangen Senter,Tangen Senter,Vestveien 51,,59.856422,10.660129,"['RESTROOM', 'SHOPPING', 'CAFE']",9
-Tau,Tau-R13 (Handelsparken),Fiskåvegen 2,,59.065046,5.92092,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']",5
-Busstasjonen,Taxi - Bystasjonen,Lungegårdskaien,Ladestasjon kun for Taxi. Charging station for Taxi only.,60.387796,5.33508,"['RESTROOM', 'SHOPPING', 'CAFE']",6
-Flesland,Taxi - Flesland,Flyplassvegen 525,Ladestasjon reservert for taxi-lading,60.292779,5.227878,['RESTROOM'],20
-B8STOTL6RYHHC,Teleborg,Framtidsvägen 5 ,ICA Kvantum,56.857692,14.822921,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-Gavlen,Tessungdalen Gavlen Fjellhandel,Tessungdalen 678,Butikken er åpen 06 - 24,60.1256,8.684606,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",5
-B90QXUR79UCJK,Thorstrup Skole,Thorstrupvej 18,,55.671603,8.573352,[],4
-BAMCI61NJM1HC,Thurnau,Bürgermeister-Kleinlein-Straße 2,,50.023952,11.39073,"['RESTROOM', 'SHOPPING', 'CAFE']",4
-B8Q8HYO0BZ56O,Tingsryd,Lokgatan 1B,Öppen kl 6 - 23,56.52503,14.973746,['RESTROOM'],5
-B7ZZ72L4OSR28,Tinn Austbygd,Moensletta 4,,59.995276,8.824775,"['RESTROOM', 'SHOPPING', 'CAFE']",5
-Tista,"Tista Senter, Halden",Walkersgate 4,,59.12203,11.380788,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",20
-B9HVMDHSZGEF4,Tistrup Skole,Lærkevej 8,,55.719739,8.608156,[],4
-B9F7SK1HFC0E8,Tistrup Torv,Torvet 2,,55.715923,8.601492,['SHOPPING'],4
-Tonstad,Tonstad,Tonstadveien 28,,58.664958,6.715434,"['RESTROOM', 'SHOPPING']",6
-BA9N1HQ7CIAYO,Tornet - Ulricehamn,Strandgatan 6,ICA Tornet Ulricehamn,57.793004,13.411275,"['RESTROOM', 'CAR_TRAILER']",5
-BAH67OH4FP43K,Torp - Uddevalla,Torp Köpcentrum,Torp Köpcentrum,58.352729,11.812689,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE', 'CAR_TRAILER']",28
-B9RF7XNO0KW74,Torvet i Ølgod,Torvet 3,,55.807229,8.619467,"['RESTAURANT', 'SHOPPING', 'CAFE']",10
-Trekanten Asker,"Trekanten Senter, Asker",Knud Askers vei 20,,59.835779,10.434583,"['RESTROOM', 'SHOPPING', 'CAFE']",9
-BA8GHWVCC3VUO,Trelleborg,Strandridaregatan 10,,55.37405,13.129525,"['RESTROOM', 'CAFE']",4
-Trengereid,Trengereid,Trengereidsvingane 1,,60.4243,5.627312,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAFE', 'CAR_TRAILER']",18
-B9JZAL75FOQO0,Treungen,Treungvegen 378,,59.018614,8.523539,['SHOPPING'],7
-B90GAG81BW4XS,Trøjborg Centret,Otte Ruds Gade 98,,56.17224,10.212135,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",4
-Tuven,"Tuven Senter, Notodden",Tuvenbøygen 1,,59.565722,9.22369,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",16
-B8R16JA2T8HKW,Ulricehamn,Ubbarpsvägen 2A,ICA Maxi Ulricehamn,57.813021,13.420532,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",20
-Ulvik,Ulvik,Katrinastykket,Stasjonen er flytta til krysset ved Brakanes hotell,60.567306,6.913719,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",5
-BA04XHHAZ4I68,Undløse Skole,Øvej,,55.603139,11.583599,[],6
-BACF3KBOU00E8,Universitetet - Örebro,Sörbyängsvägen 24,ICA Maxi Stormarknad Universitetet,59.252125,15.232877,[],10
-B85IHTY7P0HZ4,Utne,Utne fergekai,,60.424261,6.621193,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']",5
-Vadheim,Vadheim,St. Helenas Plass,,61.209038,5.821689,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE']",7
-Vadmyra BRL,Vadmyra - Beboer,Vestre Vadmyra,Kun for beboere i Vadmyra borettslag,60.362432,5.225897,['SHOPPING'],12
-"Vadmyra, Vestre",Vadmyra og Vestre Hurtigladere,Vestre Vadmyra,Hurtigladestasjon tilgjengelig for alle.,60.36241,5.226247,['SHOPPING'],9
-Valle,Valle,Nordibøvegen 143,,59.213004,7.53253,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",16
-BA7S55XIJJV9C,Valle Esso,Nordibøvegen 138,,59.212326,7.536122,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",4
-B8V6ZCZL80DFK,Vara,Torggatan 48,Vara Handelsområde,58.257584,12.961107,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",8
-B99RU2525F11C,VERI Center,Frijsenborgvej 5,,56.189554,10.215339,"['RESTROOM', 'SHOPPING']",8
-B9F8DP3KX1B7K,Vestervold,Vestervold 11E,,55.620993,8.47541,[],12
-Vestre BRL,Vestre - Beboer,Vestre Vadmyra,Kun for beboere i Vestre borettslag,60.36265,5.225897,['SHOPPING'],8
-B8I00UUUMLS74,Vetlanda,Nygatan 3,ICA Maxi,57.42493,15.096341,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-BAKUQA5HQW54W,Vik i Sogn,Røysavegen 2,,61.085887,6.581076,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",6
-B8R1BLXNKOBGG,Vilhelmina,Volgsjövägen 36,ICA Vilhelmina Tallen,64.625159,16.655029,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",6
-B9D4QB5N5FG1S,Visby,Follingboväg 70,Maxi ICA Stormarknad,57.624386,18.322489,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']",20
-Rotset,Volda,Rotsetstranda 8,,62.140648,6.090002,"['RESTROOM', 'SHOPPING']",15
-Strandavegen,Voss Strandavegen,Strandavegen 4,Gratis parkering i 3 timer for biler som lader.,60.629663,6.4252,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",3
-Tinghusplassen,Voss Tinghusplassen,Uttrågata 7,,60.627886,6.417823,"['SHOPPING', 'CAFE']",22
-Våge,Våge,Hegglandsvegen 47,,60.042282,5.523375,"['RESTROOM', 'REST_STOP', 'SHOPPING']",5
-B8BOHKKWGXVY8,Våge fergekai,Våge kai,,60.046308,5.523868,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']",12
-BA8Y5PZGO07WG,Vårgårda,Gjuterigatan 2,ICA Kvantum Vårgårda,58.039685,12.80311,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",10
-B8KL4J6RVWC1S,Värnamo,Expovägen 2,ICA Kvantum Värnamo,57.174632,14.061532,"['RESTROOM', 'SHOPPING', 'CAFE']",15
-B9VVDWZCTF7CW,Værstetorvet,Jens Wilhelmsens gate 7,"Kjør ned i parkeringskjeller, hold til venstre. Laderne er bak oppgang A. Lokale parkeringstariffer gjelder.",59.210006,10.930487,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",12
+Vissa laddare ur funktion på grund av skadegörelse. Vi uppskattar de som hört av sig till vår kundtjänst. ",58.06942,11.818591,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'BAR', 'CAFE', 'CAR_TRAILER']"
+Stokmarknes,Stokmarknes,Havnegata,Parkeringsplass ved Elkjøp.,68.565804,14.914888,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Stopp Senter,"Stopp Tune Senter, Sarpsborg",Lilletuneveien 2,,59.287192,11.086506,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Storbyen,"Storbyen Senter, Sarpsborg",Roald Amundsens gate 36,"Hurtigladere plassert i p-hus, åpent 09-20. Normalladere (SB5-SB11) er døgnåpne og plassert i nedre parkeringshus.",59.282784,11.107131,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8P21QIH5PO8W,Storhaug,Saudagata 47,,58.967757,5.743037,[]
+Stortorvet,"Stortorvet Senter, Kongsberg",Karsches gate 3,Ladere plassert ved Esso. Innkjøring fra Stasjonsbakken,59.668261,9.652725,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Stovner,Stovner Senter,Stovner Senter 3,Hurtigladere P-hus Plan 1. AC-ladere Plan 3 er nå tilgjengelig for alle. ,59.960243,10.925184,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Stranda,Stranda,Øyna 10,,62.307454,6.945529,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Strandtorget,"Strandtorget Senter, Lillehammer",Strandpromenaden 85,,61.114455,10.447287,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B9FBTLFIMY8ZK,Studentbacken - Stockholm,Studentbacken,,59.348486,18.095508,[]
+Suldal,Suldalsosen,Suldalsvegen 1621,,59.491475,6.51481,[]
+BAAYKM48RWF7K,Sulingen P&R,Am Bahnhof,,52.686157,8.813105,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+Svelgen,Svelgen,Gunnar Scheldrups veg 11,Ladestasjon ved Bakarhuset.,61.768414,5.292107,"['ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Svinesundparken,Svinesundparken,Svinesundparken 1,,59.129498,11.274019,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE']"
+B98DU8F3UFQWW,Sälen,Postvägen 2,ICA Nära Sälen,61.157613,13.264919,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+B8I00X35T2W3K,Sölvesborg,Järnvägsgatan 5,ICA Supermarket,56.049016,14.581906,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BATREE28WZ7CW,Söråker,Folketshusvägen,ICA Nära Söråker,62.50602,17.50785,"['RESTROOM', 'SHOPPING', 'WIFI']"
+Tangen Senter,Tangen Senter,Vestveien 51,,59.856422,10.660129,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Tau,Tau-R13 (Handelsparken),Fiskåvegen 2,,59.065046,5.92092,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Busstasjonen,Taxi - Bystasjonen,Lungegårdskaien,Ladestasjon kun for Taxi. Charging station for Taxi only.,60.387796,5.33508,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Flesland,Taxi - Flesland,Flyplassvegen 525,Ladestasjon reservert for taxi-lading,60.292779,5.227878,['RESTROOM']
+B8STOTL6RYHHC,Teleborg,Framtidsvägen 5 ,ICA Kvantum,56.857692,14.822921,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Gavlen,Tessungdalen Gavlen Fjellhandel,Tessungdalen 678,Butikken er åpen 06 - 24,60.1256,8.684606,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B90QXUR79UCJK,Thorstrup Skole,Thorstrupvej 18,,55.671603,8.573352,[]
+BAMCI61NJM1HC,Thurnau,Bürgermeister-Kleinlein-Straße 2,,50.023952,11.39073,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8Q8HYO0BZ56O,Tingsryd,Lokgatan 1B,Öppen kl 6 - 23,56.52503,14.973746,['RESTROOM']
+B7ZZ72L4OSR28,Tinn Austbygd,Moensletta 4,,59.995276,8.824775,"['RESTROOM', 'SHOPPING', 'CAFE']"
+Tista,"Tista Senter, Halden",Walkersgate 4,,59.12203,11.380788,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9HVMDHSZGEF4,Tistrup Skole,Lærkevej 8,,55.719739,8.608156,[]
+B9F7SK1HFC0E8,Tistrup Torv,Torvet 2,,55.715923,8.601492,['SHOPPING']
+Tonstad,Tonstad,Tonstadveien 28,,58.664958,6.715434,"['RESTROOM', 'SHOPPING']"
+BA9N1HQ7CIAYO,Tornet - Ulricehamn,Strandgatan 6,ICA Tornet Ulricehamn,57.793004,13.411275,"['RESTROOM', 'CAR_TRAILER']"
+BAH67OH4FP43K,Torp - Uddevalla,Torp Köpcentrum,Torp Köpcentrum,58.352729,11.812689,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+B9RF7XNO0KW74,Torvet i Ølgod,Torvet 3,,55.807229,8.619467,"['RESTAURANT', 'SHOPPING', 'CAFE']"
+Trekanten Asker,"Trekanten Senter, Asker",Knud Askers vei 20,,59.835779,10.434583,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BA8GHWVCC3VUO,Trelleborg,Strandridaregatan 10,,55.37405,13.129525,"['RESTROOM', 'CAFE']"
+Trengereid,Trengereid,Trengereidsvingane 1,,60.4243,5.627312,"['RESTROOM', 'REST_STOP', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+B9JZAL75FOQO0,Treungen,Treungvegen 378,,59.018614,8.523539,['SHOPPING']
+B90GAG81BW4XS,Trøjborg Centret,Otte Ruds Gade 98,,56.17224,10.212135,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Tuven,"Tuven Senter, Notodden",Tuvenbøygen 1,,59.565722,9.22369,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+B8R16JA2T8HKW,Ulricehamn,Ubbarpsvägen 2A,ICA Maxi Ulricehamn,57.813021,13.420532,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Ulvik,Ulvik,Katrinastykket,Stasjonen er flytta til krysset ved Brakanes hotell,60.567306,6.913719,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+BA04XHHAZ4I68,Undløse Skole,Øvej,,55.603139,11.583599,[]
+BACF3KBOU00E8,Universitetet - Örebro,Sörbyängsvägen 24,ICA Maxi Stormarknad Universitetet,59.252125,15.232877,[]
+B85IHTY7P0HZ4,Utne,Utne fergekai,,60.424261,6.621193,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE', 'CAR_TRAILER']"
+Vadheim,Vadheim,St. Helenas Plass,,61.209038,5.821689,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'TRUCK', 'CAFE']"
+Vadmyra BRL,Vadmyra - Beboer,Vestre Vadmyra,Kun for beboere i Vadmyra borettslag,60.362432,5.225897,['SHOPPING']
+"Vadmyra, Vestre",Vadmyra og Vestre Hurtigladere,Vestre Vadmyra,Hurtigladestasjon tilgjengelig for alle.,60.36241,5.226247,['SHOPPING']
+Valle,Valle,Nordibøvegen 143,,59.213004,7.53253,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+BA7S55XIJJV9C,Valle Esso,Nordibøvegen 138,,59.212326,7.536122,"['RESTROOM', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B8V6ZCZL80DFK,Vara,Torggatan 48,Vara Handelsområde,58.257584,12.961107,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B99RU2525F11C,VERI Center,Frijsenborgvej 5,,56.189554,10.215339,"['RESTROOM', 'SHOPPING']"
+B9F8DP3KX1B7K,Vestervold,Vestervold 11E,,55.620993,8.47541,[]
+Vestre BRL,Vestre - Beboer,Vestre Vadmyra,Kun for beboere i Vestre borettslag,60.36265,5.225897,['SHOPPING']
+B8I00UUUMLS74,Vetlanda,Nygatan 3,ICA Maxi,57.42493,15.096341,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BAKUQA5HQW54W,Vik i Sogn,Røysavegen 2,,61.085887,6.581076,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+B8R1BLXNKOBGG,Vilhelmina,Volgsjövägen 36,ICA Vilhelmina Tallen,64.625159,16.655029,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B9D4QB5N5FG1S,Visby,Follingboväg 70,Maxi ICA Stormarknad,57.624386,18.322489,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE', 'CAR_TRAILER']"
+Rotset,Volda,Rotsetstranda 8,,62.140648,6.090002,"['RESTROOM', 'SHOPPING']"
+Strandavegen,Voss Strandavegen,Strandavegen 4,Gratis parkering i 3 timer for biler som lader.,60.629663,6.4252,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+Tinghusplassen,Voss Tinghusplassen,Uttrågata 7,,60.627886,6.417823,"['SHOPPING', 'CAFE']"
+Våge,Våge,Hegglandsvegen 47,,60.042282,5.523375,"['RESTROOM', 'REST_STOP', 'SHOPPING']"
+B8BOHKKWGXVY8,Våge fergekai,Våge kai,,60.046308,5.523868,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BA8Y5PZGO07WG,Vårgårda,Gjuterigatan 2,ICA Kvantum Vårgårda,58.039685,12.80311,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B8KL4J6RVWC1S,Värnamo,Expovägen 2,ICA Kvantum Värnamo,57.174632,14.061532,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B9VVDWZCTF7CW,Værstetorvet,Jens Wilhelmsens gate 7,"Kjør ned i parkeringskjeller, hold til venstre. Laderne er bak oppgang A. Lokale parkeringstariffer gjelder.",59.210006,10.930487,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
 B9ISZ9O1VMJNK,Wassenberg,Brabanter Str. 48,"Standort wegen technischem Defekt vorübergehend außer Betrieb. Wir informieren über die Wiederinbetriebnahme.
 
-Site temporarily out of service due to technical issue. Updates will follow regarding reactivation.",51.101779,6.183371,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-BA63CCVLILDZ4,Werneck,Mittlerer Weg 25,,49.97929,10.09011,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-BAIZ8B2ST2NEO,Wetter ,Carl-Bönnhof-Straße 1,,51.387141,7.386206,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']",8
-BAACC8T09YD4W,Wetzlar,Westendstraße 2-4,,50.549241,8.473786,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",10
-BALQFMQ4JY4U8,Wismar,Schweriner Str. 17,,53.885875,11.46199,"['RESTROOM', 'SHOPPING', 'CAFE']",2
-BAAYMPXA3AARK,Übach-Palenberg,Am Wasserturm 11-17,,50.924934,6.113055,"['RESTROOM', 'RESTAURANT', 'CAFE', 'CAR_TRAILER']",8
-B9X9GNXGPE9DS,Ystad,Almelundsvägen 4,,55.444141,13.807842,"['RESTROOM', 'CAFE', 'CAR_TRAILER']",14
-B9I0870R90BNK,Ytterhogdal,Ångevägen 1,ICA Nära Ytterhogdal,62.174518,14.9373,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",12
-Ågotnes,Ågotnes Torg,Skjergardsvegen 1382,,60.40359,5.000811,"['RESTROOM', 'SHOPPING', 'CAFE']",8
-B8R4HQ8D4TMO0,Åkersberga Centrum,Stationsvägen 37,Åkersberga C Östra Parkeringsgaraget,59.478941,18.302919,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']",10
-B7ZANUOH0CPHC,Ålesund sentrum,Nedre standgate 21,Hurtiglading av bil i Ålesund Sentrum ved Plugs landstrømanlegg,62.46979,6.14823,"['REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",8
-aalgaard,Ålgård – Coop AMFI,Olav Nielsensvei 25,,58.770747,5.845129,"['RESTROOM', 'SHOPPING', 'CAFE']",7
-B90K8QWS7BDHC,Åmli,Gata 5,Ladere har kun 110 kW tilgjengelig makseffekt i påvente av oppgradert trafo.,58.765094,8.48299,[],5
-B8X3NK6RR60OW,Årre Skole,Vardevej 1C,Parkering ved Årre Børnecenter,55.57499,8.66633,[],4
-asen,Åsen,Auglendsmyrå 5,,58.94462,5.7291,['SHOPPING'],5
-B8Q8HZ5UVCV7K,Älmhult,Silverdalsgatan 3,ICA Maxi Älmhult,56.556534,14.147817,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']",5
-Alvsbyn,Älvsbyn,Skolgatan 17,ICA Supermarket Älvsbyn,65.670767,21.010475,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']",5
-B8CDEXTMW9CLC,Östersund,Arenavägen 19,ICA Maxi Östersund,63.192071,14.652091,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",24
-B9I7P9R4B24U8,Östhammar,Energivägen 2 ,ICA Supermarket Östhammar,60.249628,18.349452,"['RESTROOM', 'SHOPPING']",5
-B9OXP5MH99HXC,Överby - Trollhättan,Ladugårdsvägen,ICA Maxi Trollhättan,58.313142,12.304905,[],23
-B90QYC3QCX2PS,Ølgod Kulturhus,Enghavevej 4,,55.807074,8.616833,[],4
-BAKQOLRXNR8QO,Ørebekk,Mosseveien 109,,59.232266,10.904158,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']",4
-BA087UYMATEDC,Østervold,Østervold 30,,55.624579,8.481844,[],6
-Oyrane,"Øyrane Senter, Førde",Firdavegen 20,,61.457726,5.849593,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']",4
-Øystese,Øystese,Hardangerfjordvegen 615,,60.387014,6.201417,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']",11
+Site temporarily out of service due to technical issue. Updates will follow regarding reactivation.",51.101779,6.183371,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BA63CCVLILDZ4,Werneck,Mittlerer Weg 25,,49.97929,10.09011,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+BAIZ8B2ST2NEO,Wetter ,Carl-Bönnhof-Straße 1,,51.387141,7.386206,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'WIFI', 'CAFE']"
+BAACC8T09YD4W,Wetzlar,Westendstraße 2-4,,50.549241,8.473786,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+BALQFMQ4JY4U8,Wismar,Schweriner Str. 17,,53.885875,11.46199,"['RESTROOM', 'SHOPPING', 'CAFE']"
+BAAYMPXA3AARK,Übach-Palenberg,Am Wasserturm 11-17,,50.924934,6.113055,"['RESTROOM', 'RESTAURANT', 'CAFE', 'CAR_TRAILER']"
+B9X9GNXGPE9DS,Ystad,Almelundsvägen 4,,55.444141,13.807842,"['RESTROOM', 'CAFE', 'CAR_TRAILER']"
+B9I0870R90BNK,Ytterhogdal,Ångevägen 1,ICA Nära Ytterhogdal,62.174518,14.9373,"['RESTROOM', 'REST_STOP', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Ågotnes,Ågotnes Torg,Skjergardsvegen 1382,,60.40359,5.000811,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B8R4HQ8D4TMO0,Åkersberga Centrum,Stationsvägen 37,Åkersberga C Östra Parkeringsgaraget,59.478941,18.302919,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'BAR', 'WIFI', 'CAFE']"
+B7ZANUOH0CPHC,Ålesund sentrum,Nedre standgate 21,Hurtiglading av bil i Ålesund Sentrum ved Plugs landstrømanlegg,62.46979,6.14823,"['REST_STOP', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
+aalgaard,Ålgård – Coop AMFI,Olav Nielsensvei 25,,58.770747,5.845129,"['RESTROOM', 'SHOPPING', 'CAFE']"
+B90K8QWS7BDHC,Åmli,Gata 5,Ladere har kun 110 kW tilgjengelig makseffekt i påvente av oppgradert trafo.,58.765094,8.48299,[]
+B8X3NK6RR60OW,Årre Skole,Vardevej 1C,Parkering ved Årre Børnecenter,55.57499,8.66633,[]
+asen,Åsen,Auglendsmyrå 5,,58.94462,5.7291,['SHOPPING']
+B8Q8HZ5UVCV7K,Älmhult,Silverdalsgatan 3,ICA Maxi Älmhult,56.556534,14.147817,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+Alvsbyn,Älvsbyn,Skolgatan 17,ICA Supermarket Älvsbyn,65.670767,21.010475,"['RESTROOM', 'RESTAURANT', 'SHOPPING', 'CAFE']"
+B8CDEXTMW9CLC,Östersund,Arenavägen 19,ICA Maxi Östersund,63.192071,14.652091,"['RESTROOM', 'REST_STOP', 'RESTAURANT', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+B9I7P9R4B24U8,Östhammar,Energivägen 2 ,ICA Supermarket Östhammar,60.249628,18.349452,"['RESTROOM', 'SHOPPING']"
+B9OXP5MH99HXC,Överby - Trollhättan,Ladugårdsvägen,ICA Maxi Trollhättan,58.313142,12.304905,[]
+B90QYC3QCX2PS,Ølgod Kulturhus,Enghavevej 4,,55.807074,8.616833,[]
+BAKQOLRXNR8QO,Ørebekk,Mosseveien 109,,59.232266,10.904158,"['RESTROOM', 'SHOPPING', 'CAR_TRAILER']"
+BA087UYMATEDC,Østervold,Østervold 30,,55.624579,8.481844,[]
+Oyrane,"Øyrane Senter, Førde",Firdavegen 20,,61.457726,5.849593,"['RESTROOM', 'SHOPPING', 'CAFE', 'CAR_TRAILER']"
+Øystese,Øystese,Hardangerfjordvegen 615,,60.387014,6.201417,"['RESTROOM', 'RESTAURANT', 'ACCOMMODATION', 'SHOPPING', 'CAFE']"
