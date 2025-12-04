@@ -9,6 +9,9 @@ Shiny.addCustomMessageHandler("update_map", function(data) {
     if (map === null) {
         map = L.map("map");
 
+        // 2. Update center
+        map.setView([data.center.lat, data.center.lng], 4);
+
         L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 18,
         }).addTo(map);
@@ -16,9 +19,6 @@ Shiny.addCustomMessageHandler("update_map", function(data) {
         markersLayer = L.markerClusterGroup();
         map.addLayer(markersLayer);
     }
-
-    // 2. Update center
-    map.setView([data.center.lat, data.center.lng], 4);
 
     // 3. Clear markers
     markersLayer.clearLayers();
