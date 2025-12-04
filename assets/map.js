@@ -3,6 +3,10 @@
 let map = null;
 let markersLayer = null;
 
+Shiny.addCustomMessageHandler("scroll_top", function(_) {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
 Shiny.addCustomMessageHandler("update_map", function(data) {
 
     // 1. Create map first time
