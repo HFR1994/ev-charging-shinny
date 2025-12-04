@@ -41,7 +41,7 @@
     "postCreateCommand": ".devcontainer/extras/postCreate.sh",
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [8000],
+	"forwardPorts": [8000, 8888],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "gcc -v",
