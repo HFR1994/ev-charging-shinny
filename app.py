@@ -127,16 +127,23 @@ def server(input, output, session):
 
         stations = df_utilization["station_id"].unique().tolist()
 
-        df_new, station_id = inject_random_data(number=50, alternatives=stations, utilization_data=utilization_data())
-        utilization_data.set(df_new)
+        try:
+            df_new, station_id = inject_random_data(number=50, alternatives=stations, utilization_data=utilization_data())
+            utilization_data.set(df_new)
 
-        ui.notification_show(
-            f"Inject 50 rows to {station_id} station, please refresh the view",
-            type="message",
-            duration=5,
-        )
+            ui.notification_show(
+                f"Inject 50 rows to {station_id} station, please refresh the view",
+                type="message",
+                duration=5,
+            )
 
-        ui.update_select("station_filter", selected=station_id)
+            ui.update_select("station_filter", selected=station_id)
+        except Exception as e:
+            ui.notification_show(
+                str(e),
+                type="error",
+                duration=5,
+            )
 
 
     @output

@@ -140,6 +140,9 @@ def inject_random_data(number: int, alternatives:list, utilization_data: pd.Data
     """
     rows = []
 
+    if not alternatives:
+        raise Exception("No alternatives provided.")
+
     chargers_by_station = {
         st: utilization_data[utilization_data["station_id"] == st]["id"].unique().tolist()
         for st in alternatives
