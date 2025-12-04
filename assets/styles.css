@@ -2,6 +2,15 @@
   --bslib-sidebar-main-bg: #f8f8f8;
 }
 
+html, body {
+    height: 100%;
+}
+
 .shiny-options-group {
     margin-top: 10px!important;
+}
+
+.map-fill {
+    height: calc(100vh - 250px);  /* adjust the 250px for header/sidebar */
+    max-height: calc(100vh - 250px);
 }

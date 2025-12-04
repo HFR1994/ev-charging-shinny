@@ -22,15 +22,20 @@ app_ui = ui.page_sidebar(
             selected=[],
         )
     ),
-ui.h2("Filtered Charging Stations"),
-    ui.layout_column_wrap(
-        ui.card(
-            ui.card_header("Map"),
-            output_widget("render_map"),
-        ),
-        fill=True
+    ui.card(
+        ui.card_header("Filtered Charging Stations"),
+        ui.div(id="map", class_="map-fill")
     ),
+    ui.HTML("""
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+        <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    """),
     ui.include_css(assets_dir / "styles.css"),
+    ui.include_js(assets_dir / "map.js"),
     title="Restaurant tipping",
     fillable=True,
 )
@@ -62,33 +67,32 @@ def server(input, output, session):
         )
 
     @reactive.effect
-    def _():
+    async def update_map():
         df = data_store_charging()
 
-        # If widget is not ready, skip
-        if render_map.widget is None:
-            return
-
-        m = render_map.widget
-
-        # update center
         centroid = gpd.points_from_xy(df["longitud"], df["latitud"]).union_all().centroid
-        m.center = (centroid.y, centroid.x)
 
         markers = []
         for _, row in df.iterrows():
-            marker = Marker(location=(row["latitud"], row["longitud"]))
-            markers.append(marker)
+            html_popup = f"""
+                <div style='font-size:14px'>
+                    <b>{row['name']}</b><br/>
+                    {row['address']}<br/>
+                </div>
+            """
 
-        m.layers[1].markers = markers
+            markers.append({
+                "lat": row["latitud"],
+                "lng": row["longitud"],
+                "popup": html_popup,
+            })
 
-
-    @render_widget
-    def render_map():
-        # create map
-        m = Map(center=(0,0))
-        m.add(MarkerCluster(markers=[Marker(location=(0,0))]))  # store empty cluster
-
-        return m
+        await session.send_custom_message(
+            "update_map",
+            {
+                "center": {"lat": centroid.y, "lng": centroid.x},
+                "markers": markers,
+            }
+        )
 
 app = App(app_ui, server)
