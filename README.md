@@ -39,7 +39,6 @@ shiny run --launch-browser app.py
 ```
 
 Access it at: [http://localhost:8000](http://localhost:8000)
-(The token appears in the terminal logs.)
 
 ### Run the Jupyter notebook:
 
@@ -48,7 +47,7 @@ jupyter lab --ip=0.0.0.0 --port=8888 --no-browser
 ```
 
 Access it at: [http://localhost:8888](http://localhost:8888)
-(The token appears in the logs.)
+(The token appears in the terminal logs.)
 
 ---
 
