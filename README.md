@@ -1,9 +1,3 @@
-Here is a fully revised, corrected, clearer, and more professional version of your README.
-I kept your structure and intent while fixing grammar, wording, formatting, consistency, and clarity.
-If you'd like an even more formal, concise, or more technical version, I can adjust it.
-
----
-
 # EV Shiny App
 
 EV Charging Dashboard built with **Shiny for Python**
@@ -95,8 +89,6 @@ By separating station and terminal tables, we make it easy to continuously appen
 
 Values such as *total number of connectors* were removed from the station table, since they can be recomputed dynamically from the historical utilization table by counting unique terminal ID for each station ID.
 
----
-
 # Shiny Visualization
 
 Shiny is used to provide a dynamic, reactive interface.
@@ -107,14 +99,11 @@ Once the cleaned CSV files are generated in the `assets` folder, they are loaded
 * **Left side:** global filters (connectors, amenities, extra tariffs, etc.)
 * **Right side:** the main visualization and detail panels
 
----
-
 ## Filters
 
 All filters are reactive.
 For example, selecting amenities and then adjusting the maximum number of connectors will update the dataset to show only stations matching *both* filters.
 
----
 
 ## Map Section
 
@@ -129,8 +118,6 @@ Kept:         482 stations
 ```
 
 The *Locations* and *Total Charging Points* banners reflect both the cleaned data and any user-applied filters.
-
----
 
 ## Data Section
 
@@ -155,12 +142,8 @@ Because the initial dataset does not contain a full history of prices, the `Gene
 
 > **⚠️ If the view does not update:** Select a different station, then return to the previous one to trigger a refresh.
 
----
-
 ## Why Box Plots?
 
 I chose a box plot instead of a line graph as a visualization mechanism because it can represent better visualization of data abstraction as this data doesn’t have a specific trend (not evenly spaced or time-continuous). 
 
 In the first iterations of the application, data was visualized using line graphs but it started to get messy, specifically for stations that have a lot of chargers. So just being able to separate chargers into different box plots enables a better comparison between different terminals.
-
----
